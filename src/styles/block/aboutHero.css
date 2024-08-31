@@ -22,7 +22,8 @@
 
 @media (width < 1024px) {
     .about-hero {
-        display: grid;
+        display: flex;
+        flex-direction: column;
     }
 
     .about__img {
