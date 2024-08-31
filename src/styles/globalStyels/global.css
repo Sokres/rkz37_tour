@@ -1,0 +1,151 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+/* colors */
+:root {
+    --color-bg: linear-gradient(137deg, #151620 0%, #04263a 100%);
+    --color-white: #FAFAFA;
+    --color-btn-gradient: linear-gradient(116deg, #0f467a 0%, #6ba3d7 100%);
+
+
+}
+
+/* Focus */
+
+:focus-visible {
+    outline: 2px solid var(--color-focus-ring);
+    outline-offset: 2px;
+    border-radius: 2px;
+}
+
+body {
+    font-family: Montserrat_regular;
+    font-weight: 400;
+    min-width: 320px;
+    background: var(--color-bg);
+    color: #f2f2f2;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.overflow-hidden {
+    overflow: hidden;
+}
+
+body::-webkit-scrollbar {
+    width: 8px;
+}
+
+body::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: #0c1c81;
+    border-radius: 3px;
+}
+
+body::-webkit-scrollbar-thumb:hover {
+    background-color: #70F;
+}
+
+
+@font-face {
+    font-weight: 400;
+    font-family: Montserrat_regular;
+    font-style: normal;
+    font-display: swap;
+    src: url('/fonts/Montserrat-Regular.woff2') format('woff2');
+
+}
+
+@font-face {
+    font-weight: 700;
+    font-family: Montserrat_bold;
+    font-style: normal;
+    font-display: swap;
+    src: url('/fonts/Montserrat-Bold.woff2') format('woff2');
+
+}
+
+@font-face {
+    font-weight: 400;
+    font-family: MarckScript;
+    font-style: normal;
+    font-display: swap;
+    src: url('/fonts/MarckScript-Regular.woff2') format('woff2');
+
+}
+
+/* Column */
+
+.column {
+    overflow: hidden;
+}
+
+@media (width >=1760px) {
+
+
+
+    .column {
+        padding-inline: calc((100% - 1676px) / 2);
+    }
+
+}
+
+@media (1024px <=width < 1760px) {
+
+
+
+    .column {
+        padding-inline: 42px;
+    }
+
+}
+
+@media (width < 1024px) {
+
+
+
+    .column {
+        padding-inline: 20px;
+    }
+
+}
+
+@media (width >=1760px) {
+    :root {
+        --font-size-small: 1rem;
+        --font-size-normal: 1.25rem;
+        --font-size-h3: 2rem;
+        --font-size-h2: 3.5rem;
+        --font-size-h1: 5rem;
+        --font-size-shout: 9rem;
+    }
+}
+
+@media (width < 1024px) {
+    :root {
+        --font-size-small: 1rem;
+        --font-size-normal: 1rem;
+        --font-size-h3: 1.5rem;
+        --font-size-h2: 2rem;
+        --font-size-h1: 2.5rem;
+        --font-size-shout: 4rem;
+    }
+}
+
+@media (1024px <=width < 1760px) {
+    :root {
+        --font-size-small: 1rem;
+        --font-size-normal: 1.25rem;
+        --font-size-h3: 2rem;
+        --font-size-h2: 3.5rem;
+        --font-size-h1: 5rem;
+        --font-size-shout: 9rem;
+    }
+}

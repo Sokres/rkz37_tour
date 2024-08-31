@@ -1,0 +1,338 @@
+{
+	"en": {
+		"menu": {
+			"tours": "Tours",
+			"industrial_tourism": "Industrial Tourism",
+			"about_us": "About Us",
+			"faq": "FAQ",
+			"contacts": "Contacts"
+		},
+		"menu_link": {
+			"phone": "+7(999) 964 06-69",
+			"submit_request": "Submit a request"
+		},
+		"main": {
+			"kamchatka": "Kamchatka",
+			"extreme_fishing": "Extreme types of fishing",
+			"no_birds_fly": "Even birds don’t fly there…",
+			"btn_to_tours": "To tours"
+		},
+		"main_about": {
+			"sentence_1": "We organize exclusive extreme fishing",
+			"sentence_1_1": "tours to the most remote",
+			"sentence_1_2": "and inaccessible locations of Kamchatka.",
+			"sentence_2": "Our offer is unique in the region and the entire country. You will visit places where there is no mass tourism and experience the untouched nature of Kamchatka."
+		},
+		"listObject": {
+			"Karaginsky": {
+				"name": "Karaginsky District",
+				"description": "Here you can catch salmon, sockeye, pink salmon, chum, coho salmon, and also try to catch fish in the open sea with a special net.",
+				"img": [
+					"/img/rayon/Karaginsky/slider-1.jpg",
+					"/img/rayon/Karaginsky/slider-2.jpg",
+					"/img/rayon/Karaginsky/slider-3.jpg"
+				],
+				"link": "/karaginsly",
+				"link_name": "More detailed"
+			},
+			"Ust-Khayryuzovo": {
+				"name": "Ust-Khayryuzovo, Tigil District",
+				"description": "In this area, you can catch Kamchatka crab, as well as chinook, chum, sockeye, and pink salmon. We organize trips on a fishing vessel, where you can see killer whales, catch and release a shark.",
+				"img": [
+					"/img/rayon/Ust-Khayryuzovo/slider-1.jpg",
+					"/img/rayon/Ust-Khayryuzovo/slider-2.jpg",
+					"/img/rayon/Ust-Khayryuzovo/slider-3.jpg"
+				],
+				"link": "/khayryuzovo",
+				"link_name": "More detailed"
+			},
+			"Kamchatka": {
+				"name": "Kamchatka River",
+				"description": "A unique place with views of the Tolbachik volcanoes. Here you can catch chum, sockeye, chinook, and coho salmon.",
+				"img": [
+					"/img/rayon/Kamchatka/slider-1.jpg",
+					"/img/rayon/Kamchatka/slider-2.jpg",
+					"/img/rayon/Kamchatka/slider-3.jpg"
+				],
+				"link": "/kamchatka",
+				"link_name": "More detailed"
+			},
+			"Penzhina": {
+				"name": "Penzhina River",
+				"description": "The most mysterious, inaccessible, and largest river in Kamchatka. A chance to catch one of the most enigmatic fish species, the Taimen.",
+				"img": [
+					"/img/rayon/Penzhina/slider-1.jpg",
+					"/img/rayon/Penzhina/slider-2.jpg",
+					"/img/rayon/Penzhina/slider-3.jpg"
+				],
+				"link": "/penzhina",
+				"link_name": "More detailed"
+			}
+		},
+		"advantages": {
+			"title": "Our Advantages",
+			"items": {
+				"adv_1": {
+					"subTitle": "1. Exclusive Locations",
+					"text": "Our guides are professionals with over 15 years of experience in organizing industrial expeditions and fishing. They know each route perfectly and will ensure safety and comfort during your journey.",
+					"image": "/img/advantages/slider-1.jpg"
+				},
+				"adv_2": {
+					"subTitle": "2. Experienced Team",
+					"text": "We provide access to the most remote and inaccessible parts of Kamchatka, unreachable for mass tourists. These places remain untouched, preserving their pristine nature and abundant fish resources.",
+					"image": "/img/advantages/slider-2.jpg"
+				},
+				"adv_3": {
+					"subTitle": "3. Complete Autonomy",
+					"text": "We use only our own equipment, including transportation and fishing gear. This allows us to fully control the quality of services provided and respond quickly to any changes.",
+					"image": "/img/advantages/slider-3.jpg"
+				},
+				"adv_4": {
+					"subTitle": "4. Personalized Approach",
+					"text": "We offer each client individually tailored tours, considering their wishes and level of preparation. We can adapt the program to meet your expectations to the fullest.",
+					"image": "/img/advantages/slider-4.jpg"
+				},
+				"adv_5": {
+					"subTitle": "5. Comfortable Accommodation",
+					"text": "At fishing sites, we offer comfortable living conditions in equipped tents or at a resort with thermal pools. This allows you to relax and enjoy nature after a busy day.",
+					"image": "/img/advantages/slider-5.jpg"
+				},
+				"adv_6": {
+					"subTitle": "6. Eco-Responsibility",
+					"text": "We care about Kamchatka's nature and strictly adhere to all environmental regulations. In our tours, we use only safe and proven fishing methods that do not harm the ecosystem.",
+					"image": "/img/advantages/slider-6.jpg"
+				}
+			}
+		},
+		"footer": {
+			"qest": "Have any questions?",
+			"pr": "All rights reserved.",
+			"conf": "Privacy Policy",
+			"use": "Terms of Use"
+		}
+	},
+	"ru": {
+		"menu": {
+			"tours": "Туры",
+			"industrial_tourism": "Промышленный туризм",
+			"about_us": "О нас",
+			"faq": "FAQ",
+			"contacts": "Контакты"
+		},
+		"menu_link": {
+			"phone": "+7(999) 964 06-69",
+			"submit_request": "Оставьте заявку"
+		},
+		"main": {
+			"kamchatka": "Камчатка",
+			"extreme_fishing": "Экстремальные виды рыбалки",
+			"no_birds_fly": "Там даже птицы не летают…",
+			"btn_to_tours": "К турам"
+		},
+		"main_about": {
+			"sentence_1": "Мы организуем",
+			"sentence_1_1": "эксклюзивные экстремальные",
+			"sentence_1_2": "рыболовные туры в самые отдалённые и труднодоступные локации Камчатки.",
+			"sentence_2": "Наше предложение — единственное в своём роде в регионе и всей стране. Вы сможете побывать в местах, где нет массового туризма, и прикоснуться к нетронутой природе Камчатки."
+		},
+		"listObject": {
+			"Karaginsky": {
+				"name": "Карагинский район",
+				"description": "Здесь можно поймать лосося, нерку, горбушу, кету, кижуча, а также попробовать выловить рыбу в открытом море с помощью специальной сети.",
+				"img": [
+					"/img/rayon/Karaginsky/slider-1.jpg",
+					"/img/rayon/Karaginsky/slider-2.jpg",
+					"/img/rayon/Karaginsky/slider-3.jpg"
+				],
+				"link": "/karaginsly",
+				"link_name": "Подробнее"
+			},
+			"Ust-Khayryuzovo": {
+				"name": "Усть-Хайрюзово, Тигильский район",
+				"description": "В этом районе вы сможете поймать Камчатского краба, а также чавычу, кету, нерку и горбушу. Мы организуем выезды на промысловом судне, где можно увидеть касаток, поймать и отпустить акулу.",
+				"img": [
+					"/img/rayon/Ust-Khayryuzovo/slider-1.jpg",
+					"/img/rayon/Ust-Khayryuzovo/slider-2.jpg",
+					"/img/rayon/Ust-Khayryuzovo/slider-3.jpg"
+				],
+				"link": "/khayryuzovo",
+				"link_name": "Подробнее"
+			},
+			"Kamchatka": {
+				"name": "река Камчатка",
+				"description": "Уникальное место с видом на вулканы Толбачик. Здесь вы сможете выловить кету, нерку, чавычу и кижуча.",
+				"img": [
+					"/img/rayon/Kamchatka/slider-1.jpg",
+					"/img/rayon/Kamchatka/slider-2.jpg",
+					"/img/rayon/Kamchatka/slider-3.jpg"
+				],
+				"link": "/kamchatka",
+				"link_name": "Подробнее"
+			},
+			"Penzhina": {
+				"name": "река Пенжина",
+				"description": "Самая загадочная, труднодоступная и большая река Камчатки. Возможность поймать одну из самых таинственных видов рыб — Таймень.",
+				"img": [
+					"/img/rayon/Penzhina/slider-1.jpg",
+					"/img/rayon/Penzhina/slider-2.jpg",
+					"/img/rayon/Penzhina/slider-3.jpg"
+				],
+				"link": "/penzhina",
+				"link_name": "Подробнее"
+			}
+		},
+		"advantages": {
+			"title": "Наши Преимущества",
+			"items": {
+				"adv_1": {
+					"subTitle": "1. Эксклюзивные Локации",
+					"text": "Наши гиды — это профессионалы с более чем 15-летним опытом в организации промышленных экспедиций и рыболовства. Они отлично знают каждый маршрут и обеспечат безопасность и комфорт во время путешествия.",
+					"image": "/img/advantages/slider-1.jpg"
+				},
+				"adv_2": {
+					"subTitle": "2. Опытная Команда",
+					"text": "Мы предоставляем доступ к самым отдалённым и труднодоступным участкам Камчатки, куда не добраться массовому туристу. Эти места остаются нетронутыми и сохраняют свою первозданную природу и богатые рыбные ресурсы.",
+					"image": "/img/advantages/slider-2.jpg"
+				},
+				"adv_3": {
+					"subTitle": "3. Полная Автономия",
+					"text": "Мы используем только собственное оборудование, включая транспорт и рыболовное снаряжение. Это позволяет нам полностью контролировать качество предоставляемых услуг и оперативно реагировать на любые изменения.",
+					"image": "/img/advantages/slider-3.jpg"
+				},
+				"adv_4": {
+					"subTitle": "4. Индивидуальный Подход",
+					"text": "Каждому клиенту мы предлагаем индивидуально подобранные туры, учитывая его пожелания и уровень подготовки. Мы можем адаптировать программу, чтобы максимально удовлетворить ваши ожидания.",
+					"image": "/img/advantages/slider-4.jpg"
+				},
+				"adv_5": {
+					"subTitle": "5. Комфортное Проживание",
+					"text": "На местах лова мы предлагаем комфортные условия проживания в оборудованных шатрах или на базе отдыха с термальными бассейнами. Это позволяет вам отдохнуть и насладиться природой после насыщенного дня.",
+					"image": "/img/advantages/slider-5.jpg"
+				},
+				"adv_6": {
+					"subTitle": "6. Эко-ответственность",
+					"text": "Мы заботимся о природе Камчатки и строго следим за соблюдением всех экологических норм. В наших турах используются только безопасные и проверенные методы рыболовства, исключающие нанесение ущерба экосистеме.",
+					"image": "/img/advantages/slider-6.jpg"
+				}
+			}
+		},
+		"footer": {
+			"qest": "Остались вопросы?",
+			"pr": "Все права защищены.",
+			"conf": "Политика конфиденциальности",
+			"use": "Пользовательское соглашение"
+		}
+	},
+	"ch": {
+		"menu": {
+			"tours": "旅游",
+			"industrial_tourism": "工业旅游",
+			"about_us": "关于我们",
+			"faq": "常见问题",
+			"contacts": "联系方式"
+		},
+		"menu_link": {
+			"phone": "+7(999) 964 06-69",
+			"submit_request": "提交请求"
+		},
+		"main": {
+			"kamchatka": "堪察加",
+			"extreme_fishing": "极限钓鱼",
+			"no_birds_fly": "那里连鸟都不飞…",
+			"btn_to_tours": "去旅行"
+		},
+		"main_about": {
+			"sentence_1": "我们组织",
+			"sentence_1_1": "前往堪察加半岛最偏远",
+			"sentence_1_2": "和难以到达的地点的独家极限钓鱼之旅。",
+			"sentence_2": "我们的服务在该地区乃至整个国家都是独一无二的。您将参观没有大众旅游的地方，体验堪察加半岛的原始自然。"
+		},
+		"listObject": {
+			"Karaginsky": {
+				"name": "卡拉金区",
+				"description": "在这里，您可以捕捉到鲑鱼、红鲑、粉鲑、大马哈鱼和银鲑，还可以尝试用特殊的网在公海中捕鱼。",
+				"img": [
+					"/img/rayon/Karaginsky/slider-1.jpg",
+					"/img/rayon/Karaginsky/slider-2.jpg",
+					"/img/rayon/Karaginsky/slider-3.jpg"
+				],
+				"link": "/karaginsly",
+				"link_name": "更详细"
+			},
+			"Ust-Khayryuzovo": {
+				"name": "乌斯特-哈里尤佐沃，堤格尔区",
+				"description": "在这个地区，您可以捕捉到堪察加螃蟹以及大马哈鱼、红鲑和粉鲑。我们组织出海打渔，期间可以看到虎鲸，还可以捕捉并放生鲨鱼。",
+				"img": [
+					"/img/rayon/Ust-Khayryuzovo/slider-1.jpg",
+					"/img/rayon/Ust-Khayryuzovo/slider-2.jpg",
+					"/img/rayon/Ust-Khayryuzovo/slider-3.jpg"
+				],
+				"link": "/khayryuzovo",
+				"link_name": "更详细"
+			},
+			"Kamchatka": {
+				"name": "堪察加河",
+				"description": "这是一个可以看到托尔巴奇克火山的独特地点。在这里，您可以捕捉到大马哈鱼、红鲑、奇努克和银鲑。",
+				"img": [
+					"/img/rayon/Kamchatka/slider-1.jpg",
+					"/img/rayon/Kamchatka/slider-2.jpg",
+					"/img/rayon/Kamchatka/slider-3.jpg"
+				],
+				"link": "/kamchatka",
+				"link_name": "更详细"
+			},
+			"Penzhina": {
+				"name": "彭兹纳河",
+				"description": "堪察加半岛最神秘、难以到达和最大的一条河流。有机会捕捉到最神秘的鱼种之一——哲罗鱼。",
+				"img": [
+					"/img/rayon/Penzhina/slider-1.jpg",
+					"/img/rayon/Penzhina/slider-2.jpg",
+					"/img/rayon/Penzhina/slider-3.jpg"
+				],
+				"link": "/penzhina",
+				"link_name": "更详细"
+			}
+		},
+		"advantages": {
+			"title": "我们的优势",
+			"items": {
+				"adv_1": {
+					"subTitle": "1. 独家地点",
+					"text": "我们的导游是拥有超过15年组织工业探险和钓鱼经验的专业人士。他们非常熟悉每条路线，并将在您的旅程中确保安全和舒适。",
+					"image": "/img/advantages/slider-1.jpg"
+				},
+				"adv_2": {
+					"subTitle": "2. 经验丰富的团队",
+					"text": "我们提供通往堪察加最偏远和难以到达的地方的通道，大众游客无法到达这些地方。这些地方保持原始状态，保留了原始自然和丰富的鱼类资源。",
+					"image": "/img/advantages/slider-2.jpg"
+				},
+				"adv_3": {
+					"subTitle": "3. 完全自主",
+					"text": "我们只使用自己的设备，包括交通工具和钓鱼装备。这使我们能够完全控制所提供服务的质量，并能迅速应对任何变化。",
+					"image": "/img/advantages/slider-3.jpg"
+				},
+				"adv_4": {
+					"subTitle": "4. 个性化服务",
+					"text": "我们为每位客户提供个性化定制的旅行，考虑到他们的愿望和准备水平。我们可以调整行程，以最大限度地满足您的期望。",
+					"image": "/img/advantages/slider-4.jpg"
+				},
+				"adv_5": {
+					"subTitle": "5. 舒适的住宿",
+					"text": "在钓鱼地点，我们提供舒适的住宿条件，包括装备齐全的帐篷或带温泉泳池的度假村。这使您可以在忙碌的一天后放松身心，享受大自然。",
+					"image": "/img/advantages/slider-5.jpg"
+				},
+				"adv_6": {
+					"subTitle": "6. 生态责任",
+					"text": "我们关心堪察加的自然环境，并严格遵守所有环境法规。在我们的旅行中，我们只使用安全且经过验证的钓鱼方法，不会对生态系统造成损害。",
+					"image": "/img/advantages/slider-6.jpg"
+				}
+			}
+		},
+		"footer": {
+			"qest": "还有问题吗？",
+			"pr": "版权所有。",
+			"conf": "隐私政策",
+			"use": "使用条款"
+		}
+	}
+}

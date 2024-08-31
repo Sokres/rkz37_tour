@@ -1,0 +1,63 @@
+.parallax_bg {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 130%;
+    height: 100%;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    background-image: url(/img/bg_perf.png);
+}
+
+.advantag {
+    margin-top: 40px;
+    position: relative;
+}
+
+.advantag__header {
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 30;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.advantag__title {
+    font-size: 1.8em;
+}
+
+.advantag__text {
+    font-size: 1.2em;
+}
+
+.advantag_slid {
+    margin-top: 100px;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
+.advantag__imge {
+    border-radius: 60px;
+    padding: 40px;
+    max-width: 400px;
+    width: 100%;
+    height: auto;
+}
+
+@media (width < 860px) {
+    .advantag__header {}
+
+    .advantag_slid {
+        margin-top: 150px;
+        display: grid;
+        grid-template-columns: auto;
+    }
+
+    .advantag__imge {
+        max-width: 100%;
+        padding: 0;
+    }
+}

@@ -1,0 +1,32 @@
+.about-hero {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.about-hero__container {
+    align-self: center;
+    font-size: 2rem;
+}
+
+.about-hero__text span:nth-child(2) {
+    text-shadow: 1px 0px 1px #060315;
+    font-weight: 700;
+    background: #BAB300;
+}
+
+.about__img {
+    width: 100%;
+    height: auto;
+
+}
+
+@media (width < 1024px) {
+    .about-hero {
+        display: grid;
+    }
+
+    .about__img {
+        order: -1;
+
+    }
+}
