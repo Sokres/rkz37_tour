@@ -11,3 +11,10 @@
 
     color: #82c3ff;
 }
+
+@media (width < 1024px) {
+    .footer {
+        display: flex;
+        flex-direction: column;
+    }
+}
