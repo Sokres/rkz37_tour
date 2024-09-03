@@ -2,8 +2,7 @@
 	"en": {
 		"menu": {
 			"tours": "Tours",
-			"industrial_tourism": "Industrial Tourism",
-			"about_us": "About Us",
+			"about": "About Us",
 			"faq": "FAQ",
 			"contacts": "Contacts"
 		},
@@ -109,13 +108,39 @@
 			"pr": "All rights reserved.",
 			"conf": "Privacy Policy",
 			"use": "Terms of Use"
+		},
+		"companyDescription": {
+			"img": "/img/bg_about.jpg",
+			"about_title": "Welcome to LLC RKZ 37",
+			"about": " — an exclusive operator of adventure tourism in the most remote areas. We specialize in organizing unique commercial fishing tours and geological expeditions, avoiding mass tourism and offering you the opportunity to experience the untouched nature and fish resources of our region.",
+			"benefits": {
+				"exclusivity": {
+					"exclusivity_title": "Exclusivity:",
+					"exclusivity_description": "We offer access to the most remote and unique locations, inaccessible to ordinary tourists. Your journey will be a true discovery, with every route carefully planned to allow you to enjoy pristine nature and fishing at the highest level.",
+					"exclusivity_img": "/img/about/image_4.jpg"
+				},
+				"technique": {
+					"technique_title": "Our Own Equipment and Areas:",
+					"technique_description": "We use only our own off-road vehicles and transport our guests to our own fishing areas. This guarantees the highest level of control and comfort.",
+					"technique_img": "/img/about/image_1.jpg"
+				},
+				"guides": {
+					"guides_title": "Professional Guides",
+					"guides_description": "Our guides are true professionals in commercial fishing and geological expeditions. They are ready to tackle difficult routes and provide you with unparalleled support in the most hard-to-reach places.",
+					"guides_img": "/img/about/image_2.jpg"
+				},
+				"airTransport": {
+					"airTransport_title": "Air Transport:",
+					"airTransport_description": "To reach remote locations, we use air transport, including helicopters and local airlines, allowing quick and safe access to the most distant places.",
+					"airTransport_img": "/img/about/image_3.jpg"
+				}
+			}
 		}
 	},
 	"ru": {
 		"menu": {
 			"tours": "Туры",
-			"industrial_tourism": "Промышленный туризм",
-			"about_us": "О нас",
+			"about": "О нас",
 			"faq": "FAQ",
 			"contacts": "Контакты"
 		},
@@ -221,13 +246,39 @@
 			"pr": "Все права защищены.",
 			"conf": "Политика конфиденциальности",
 			"use": "Пользовательское соглашение"
+		},
+		"companyDescription": {
+			"img": "/img/bg_about.jpg",
+			"about_title": "Добро пожаловать в ООО РКЗ 37",
+			"about": " — эксклюзивного оператора приключенческого туризма в самых удалённых уголках. Мы специализируемся на организации уникальных промысловых рыболовных туров и геологических экспедиций, избегая массового туризма и предлагая вам возможность прикоснуться к нетронутой природе и рыбным запасам нашего региона.",
+			"benefits": {
+				"exclusivity": {
+					"exclusivity_title": "Эксклюзивность:",
+					"exclusivity_description": "Мы предлагаем доступ к самым удаленным и уникальным местам, недоступным для обычных туристов. Ваше путешествие станет настоящим открытием, где каждый маршрут продуман до мелочей, чтобы вы могли насладиться первозданной природой и рыболовством на высшем уровне.",
+					"exclusivity_img": "/img/about/image_4.jpg"
+				},
+				"technique": {
+					"technique_title": "Собственная техника и участки:",
+					"technique_description": "Мы используем только собственную внедорожную технику и транспортируем наших гостей на собственные рыболовные участки. Это гарантирует высший уровень контроля и комфорта.",
+					"technique_img": "/img/about/image_1.jpg"
+				},
+				"guides": {
+					"guides_title": "Профессиональные гиды",
+					"guides_description": "Наши гиды — это настоящие профессионалы в области промышленного рыболовства и геологических экспедиций. Они готовы преодолевать сложные маршруты и обеспечивать вам непревзойденную поддержку в самых труднодоступных местах.",
+					"guides_img": "/img/about/image_2.jpg"
+				},
+				"airTransport": {
+					"airTransport_title": "Воздушный транспорт: ",
+					"airTransport_description": "Для доставки к удалённым локациям мы используем воздушный транспорт, включая вертолёты и местные авиалинии, что позволяет быстро и безопасно добраться до самых отдалённых мест.",
+					"airTransport_img": "/img/about/image_3.jpg"
+				}
+			}
 		}
 	},
 	"ch": {
 		"menu": {
 			"tours": "旅游",
-			"industrial_tourism": "工业旅游",
-			"about_us": "关于我们",
+			"about": "关于我们",
 			"faq": "常见问题",
 			"contacts": "联系方式"
 		},
@@ -333,6 +384,33 @@
 			"pr": "版权所有。",
 			"conf": "隐私政策",
 			"use": "使用条款"
+		},
+		"companyDescription": {
+			"img": "/img/bg_about.jpg",
+			"about_title": "欢迎来到 LLC RKZ 37",
+			"about": " — 在最偏远地区提供独家探险旅游服务的运营商。我们专注于组织独特的商业捕鱼之旅和地质考察，避开大众旅游，带给您亲近大自然和体验我们地区丰富鱼类资源的机会。",
+			"benefits": {
+				"exclusivity": {
+					"exclusivity_title": "独家性:",
+					"exclusivity_description": "我们提供通往最偏远和独特地点的机会，普通游客无法到达。您的旅程将成为真正的发现，每一条路线都经过精心策划，让您尽享原始自然和顶级的捕鱼体验。",
+					"exclusivity_img": "/img/about/image_4.jpg"
+				},
+				"technique": {
+					"technique_title": "我们的设备和渔场：",
+					"technique_description": "我们只使用自己的越野车辆，并将客人运送到自有的渔场。这确保了最高水平的控制和舒适。",
+					"technique_img": "/img/about/image_1.jpg"
+				},
+				"guides": {
+					"guides_title": "专业导游",
+					"guides_description": "我们的导游在商业捕鱼和地质考察方面是名副其实的专业人士。他们准备应对艰难的路线，并在最难以到达的地方为您提供无与伦比的支持。",
+					"guides_img": "/img/about/image_2.jpg"
+				},
+				"airTransport": {
+					"airTransport_title": "空中交通：",
+					"airTransport_description": "为了到达偏远地点，我们使用包括直升机和地方航空公司在内的空中交通工具，确保快速安全地到达最远的地方。",
+					"airTransport_img": "/img/about/image_3.jpg"
+				}
+			}
 		}
 	}
 }

@@ -9,6 +9,7 @@
     --color-bg: linear-gradient(137deg, #151620 0%, #04263a 100%);
     --color-white: #FAFAFA;
     --color-btn-gradient: linear-gradient(116deg, #0f467a 0%, #6ba3d7 100%);
+    --color-box-gradient: linear-gradient(318deg, #149ce9 0.86%, rgba(11, 88, 131, 0) 100%);
 
 
 }
@@ -30,6 +31,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    position: relative;
 }
 
 .overflow-hidden {
@@ -65,7 +67,7 @@ body::-webkit-scrollbar-thumb:hover {
 
 @font-face {
     font-weight: 700;
-    font-family: Montserrat_bold;
+    font-family: Montserrat_regular;
     font-style: normal;
     font-display: swap;
     src: url('/fonts/Montserrat-Bold.woff2') format('woff2');

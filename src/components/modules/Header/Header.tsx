@@ -1,7 +1,14 @@
 'use client';
 import { AllowedLengs } from '@/constants/lang';
 import { setLeng } from '@/context/lang';
-import { $menuIsOpen, closeMenu, openMenu } from '@/context/modal';
+import {
+	$frameIsOpen,
+	$menuIsOpen,
+	closeFrame,
+	closeMenu,
+	openFrame,
+	openMenu,
+} from '@/context/modal';
 import { useLang } from '@/hook/useLang';
 import { useMediaQuery } from '@/hook/useMedia';
 import {
@@ -11,20 +18,35 @@ import {
 import { useUnit } from 'effector-react';
 import Image from 'next/image';
 import Link from 'next/link';
+import { useEffect, useState } from 'react';
+import { Events } from 'react-scroll';
 
 const Header = () => {
 	const { lang, translations } = useLang();
 
+	const frameIsOpen = useUnit($frameIsOpen);
 	const menuIsOpen = useUnit($menuIsOpen);
 	const isMedia1024 = useMediaQuery(1024);
 	const headlerOpenMenu = () => {
 		if (!menuIsOpen) {
-			addOverflowHiddenToBody();
 			openMenu();
-		} else {
 			removeOverflowHiddenFromBody();
+		} else {
+			addOverflowHiddenToBody();
 			closeMenu();
 		}
+	};
+	const headlerOpenFrame = () => {
+		closeFrame();
+		addOverflowHiddenToBody();
+	};
+	const linhHeaderClose = () => {
+		openMenu();
+		removeOverflowHiddenFromBody();
+	};
+	const headlerCloseFrame = () => {
+		openFrame();
+		removeOverflowHiddenFromBody();
 	};
 	const henSwitchLang = (lang: string) => {
 		setLeng(lang as AllowedLengs);
@@ -33,9 +55,8 @@ const Header = () => {
 	const henSwitchLangRu = () => henSwitchLang('ru');
 	const henSwitchLangEn = () => henSwitchLang('en');
 	const henSwitchLangCh = () => henSwitchLang('ch');
-
 	return (
-		<header className="header column">
+		<header className={` header  column `}>
 			<Link href="/">
 				<Image
 					className="header__logo"
@@ -54,7 +75,11 @@ const Header = () => {
 				<ul className="menu">
 					{Object.entries(translations[lang].menu).map(([key, value]) => (
 						<li className="header__nav-link-item" key={key}>
-							<Link href={`/${key}`} className="header__nav-link">
+							<Link
+								onClick={linhHeaderClose}
+								href={`/${key}`}
+								className="header__nav-link"
+							>
 								{value}
 							</Link>
 						</li>
@@ -95,7 +120,7 @@ const Header = () => {
 				>
 					{translations[lang].menu_link.phone}
 				</Link>
-				<button className={`header__info_btn `}>
+				<button onClick={headlerOpenFrame} className={`header__info_btn `}>
 					{translations[lang].menu_link.submit_request}
 				</button>
 			</div>
@@ -114,6 +139,23 @@ const Header = () => {
 					height={30}
 				/>
 			</button>
+			<div
+				className={`header__modal-frame ${
+					!frameIsOpen
+						? 'header__modal_frame--open'
+						: 'header__modal_frame--close'
+				}`}
+			>
+				<iframe
+					className="header__modal-frame-box"
+					width="100%"
+					height="480px"
+					src="https://u063596.spfrm.com/NyTwkLb"
+				></iframe>
+				<button onClick={headlerCloseFrame} className="header__modal-frame-btn">
+					<span></span>
+				</button>
+			</div>
 		</header>
 	);
 };

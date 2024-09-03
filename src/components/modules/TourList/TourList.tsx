@@ -9,7 +9,7 @@ const TourList = () => {
 	const listObject = translations[lang].listObject;
 
 	return (
-		<section className={`${cl.tour_list}, column`}>
+		<section className={`${cl.tour_list} column`}>
 			{Object.entries(listObject).map(([key, item], i) => (
 				<BoxRayuon
 					key={i}

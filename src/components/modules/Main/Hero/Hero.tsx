@@ -27,7 +27,6 @@ const Hero = ({ children }: { children: ReactNode }) => {
 					<p className="main_discription">
 						{translations[lang].main.extreme_fishing}
 					</p>
-					<p className="main_slogan">{translations[lang].main.no_birds_fly}</p>
 					<Link className="main__btn" href="#tour">
 						{translations[lang].main.btn_to_tours}
 					</Link>

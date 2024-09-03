@@ -4,8 +4,9 @@
     width: 100%;
     overflow: hidden;
     display: flex;
-    align-items: center;
-    position: relative;
+    align-items: end;
+    /* position: relative; */
+    padding-bottom: 150px;
 }
 
 .video-bg video {

@@ -15,7 +15,7 @@ export interface En {
 export interface Menu {
 	tours: string;
 	industrial_tourism: string;
-	about_us: string;
+	about: string;
 	faq: string;
 	contacts: string;
 }
@@ -93,7 +93,7 @@ export interface Ru {
 export interface Menu2 {
 	tours: string;
 	industrial_tourism: string;
-	about_us: string;
+	about: string;
 	faq: string;
 	contacts: string;
 }
@@ -167,7 +167,7 @@ export interface Ch {
 export interface Menu3 {
 	tours: string;
 	industrial_tourism: string;
-	about_us: string;
+	about: string;
 	faq: string;
 	contacts: string;
 }

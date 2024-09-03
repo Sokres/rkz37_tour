@@ -1,0 +1,37 @@
+.table-contact {
+    padding: 0 20px;
+    background-color: var(--white);
+    border-radius: 20px;
+}
+
+.table-contact-wrap {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    border-bottom: 1px solid var(--color-white);
+    display: grid;
+}
+
+.table-contact__inf {
+    margin-top: 10px;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.table-contact__get {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+@media(min-width: 768px) {
+    .table-contact {
+        max-width: 1200px;
+        margin: 0 auto;
+        margin-top: 40px;
+    }
+
+    .table-contact-wrap {
+        display: grid;
+        grid-template-columns: 0.5fr 1fr;
+    }
+}

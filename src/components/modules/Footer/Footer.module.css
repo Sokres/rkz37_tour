@@ -8,13 +8,27 @@
 }
 
 .footer__o {
-
+    background: none;
+    border: none;
+    text-decoration: underline;
     color: #82c3ff;
+}
+
+.footer__phone {
+    display: block;
+    margin-bottom: 10px;
+    color: var(--color-white);
+}
+
+@media (width < 512px) {
+    .footer {
+        display: flex;
+        flex-direction: column;
+    }
 }
 
 @media (width < 1024px) {
     .footer {
-        display: flex;
-        flex-direction: column;
+        grid-template-columns: repeat(2, 1fr);
     }
 }
