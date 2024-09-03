@@ -1,3 +1,13 @@
 .tour_list {
     margin-top: 40px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+}
+
+@media (width < 1024px) {
+    .tour_list {
+        grid-template-columns: 1fr;
+    }
+
 }

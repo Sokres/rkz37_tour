@@ -8,8 +8,8 @@ export default function Home() {
 		<>
 			<AboutHerow />
 			<TourList />
-			<Advantages />
-			<GalleryBlock />
+			{/* <Advantages />
+			<GalleryBlock /> */}
 		</>
 	);
 }

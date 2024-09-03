@@ -19,10 +19,10 @@ const Header = () => {
 	const isMedia1024 = useMediaQuery(1024);
 	const headlerOpenMenu = () => {
 		if (!menuIsOpen) {
-			addOverflowHiddenToBody();
 			openMenu();
-		} else {
 			removeOverflowHiddenFromBody();
+		} else {
+			addOverflowHiddenToBody();
 			closeMenu();
 		}
 	};
