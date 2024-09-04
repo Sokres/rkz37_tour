@@ -18,7 +18,15 @@ const Hero = ({ children }: { children: ReactNode }) => {
 			{children}
 			<section className="video-bg">
 				{videoReady && (
-					<video width="320" height="240" autoPlay muted loop>
+					<video
+						width="320"
+						height="240"
+						autoPlay
+						muted
+						loop
+						playsInline
+						controls={false}
+					>
 						<source src="/video/0828.mp4" type="video/mp4" />
 					</video>
 				)}

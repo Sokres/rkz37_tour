@@ -135,6 +135,101 @@
 					"airTransport_img": "/img/about/image_3.jpg"
 				}
 			}
+		},
+		"tour1": {
+			"title": "Discover the Wilds of Kamchatka: Penzhina River Tour",
+			"title2": "там даже птицы не летают",
+			"description": "We invite you on an exhilarating journey along the largest river in the Kamchatka region — the Penzhina. This is a unique tour for true adventurers, where you can experience the wildness and beauty of Kamchatka. You'll embark on a rafting expedition through one of the most remote and untouched corners of Russia, where nature has preserved its pristine power and grandeur.",
+			"highlights": [
+				{
+					"title": "Rafting on the Penzhina River",
+					"description": "Explore the majestic river stretching 713 km and navigate its winding currents, enjoying breathtaking landscapes and a sense of complete solitude."
+				},
+				{
+					"title": "Extreme Climate",
+					"description": "Feel the power of the sharply continental climate. Expect cool nights and warm days — the weather on the Penzhina always keeps you on your toes."
+				},
+				{
+					"title": "Wildlife of Kamchatka",
+					"description": "Discover the rich flora and fauna of the forest-tundra zone. Along the way, you'll encounter rare fish species, including Penzhina omul, Kamchatka grayling, and salmon, as well as unique waterfowl."
+				},
+				{
+					"title": "Historical Sites",
+					"description": "Visit places where the famous explorer Semyon Dezhnev passed in the 17th century, and feel like a pioneer of these lands."
+				},
+				{
+					"title": "Tour for True Extremes",
+					"description": "This tour is designed for experienced travelers ready for challenging conditions. Helicopter transfers, rafting on a turbulent river, camping in wild places, and complete isolation from civilization await you on this tour."
+				}
+			],
+			"itinerary": {
+				"days": [
+					{
+						"day": 1,
+						"description": "Arrival in Kamchatka, briefing, and preparation for the expedition."
+					},
+					{
+						"day": 2,
+						"description": "Helicopter flight to the Penzhina River, start of the rafting."
+					},
+					{
+						"day": 3,
+						"description": "Rafting along the river with stops at the most picturesque spots. Fishing, photo sessions, exploring wildlife. Possible encounter with local residents."
+					},
+					{
+						"day": 4,
+						"description": "Continuation of the rafting with stops for fishing and photography."
+					},
+					{
+						"day": 5,
+						"description": "Exploring the flora and fauna along the river. Observing rare species."
+					},
+					{
+						"day": 6,
+						"description": "Continuing the journey along the river with an overnight stay in a wild place."
+					},
+					{
+						"day": 7,
+						"description": "Completion of the rafting and preparation for the return."
+					},
+					{
+						"day": 8,
+						"description": "End of the rafting, helicopter flight back to the base."
+					},
+					{
+						"day": 9,
+						"description": "Return to Petropavlovsk-Kamchatsky, rest and farewell dinner."
+					}
+				]
+			},
+			"target_audience": {
+				"title": "Who is this tour for:",
+				"list": [
+					"Lovers of extreme sports and wild nature",
+					"Experienced travelers looking to challenge themselves in harsh conditions",
+					"Photographers and naturalists eager to capture unique shots"
+				]
+			},
+			"packing": {
+				"title": "What to bring:",
+				"list": [
+					"Warm and waterproof clothing",
+					"Reliable footwear for rugged terrain",
+					"Special rafting gear (may be provided)",
+					"Camera or photography equipment for nature shots"
+				]
+			},
+			"tour_includes": {
+				"title": "The tour price includes:",
+				"list": [
+					"All flights and transfers",
+					"Full guidance from experienced guides and instructors",
+					"Accommodation in tents and camps",
+					"Meals throughout the tour",
+					"Special rafting equipment"
+				]
+			},
+			"call_to_action": "Don't miss the chance to immerse yourself in the world of wilderness and adventure on the Penzhina River! Book your spot today and embark on a true adventure in the heart of Kamchatka!"
 		}
 	},
 	"ru": {
@@ -273,6 +368,101 @@
 					"airTransport_img": "/img/about/image_3.jpg"
 				}
 			}
+		},
+		"tour1": {
+			"title": "Откройте Дикость Камчатки: Тур по Реке Пенжина",
+			"title2": "там даже птицы не летают",
+			"description": "Приглашаем вас в захватывающее путешествие по крупнейшей реке Камчатского края — Пенжине. Это уникальный тур для настоящих искателей приключений, где вы сможете ощутить настоящую дикость и красоту Камчатки. Вас ждёт сплав по одному из самых удалённых и нетронутых уголков России, где природа сохранила свою первозданную силу и величие.",
+			"highlights": [
+				{
+					"title": "Сплав по реке Пенжина",
+					"description": "Исследуйте величественную реку, протянувшуюся на 713 км, и пройдите по её извилистым течениям, наслаждаясь захватывающими дух пейзажами и ощущением полной уединённости."
+				},
+				{
+					"title": "Экстремальный климат",
+					"description": "Почувствуйте мощь резко континентального климата. Ожидайте прохладные ночи и тёплые дни — погода на Пенжине всегда держит в напряжении."
+				},
+				{
+					"title": "Дикая природа Камчатки",
+					"description": "Откройте для себя богатый мир флоры и фауны лесотундровой зоны. На вашем пути вы встретите редкие виды рыб, в том числе пенжинского омуля, камчатского хариуса и лососей, а также сможете наблюдать за уникальными водоплавающими птицами."
+				},
+				{
+					"title": "Исторические места",
+					"description": "Посетите места, где в XVII веке проходил знаменитый путешественник Семён Дежнёв, и почувствуйте себя первооткрывателем этих земель."
+				},
+				{
+					"title": "Тур для настоящих экстремалов",
+					"description": "Тур разработан для опытных туристов, готовых к сложным условиям. Перемещение на вертолётах, сплав по бурной реке, ночёвки в диких местах и полное отсутствие цивилизации — всё это ожидает вас в этом туре."
+				}
+			],
+			"itinerary": {
+				"days": [
+					{
+						"day": 1,
+						"description": "Прибытие на Камчатку, инструктаж, подготовка к экспедиции."
+					},
+					{
+						"day": 2,
+						"description": "Перелёт на вертолёте к реке Пенжина, начало сплава."
+					},
+					{
+						"day": 3,
+						"description": "Сплав по реке с остановками в самых живописных местах. Рыбалка, фотосессии, изучение дикой природы. Возможна встреча с местными жителями."
+					},
+					{
+						"day": 4,
+						"description": "Продолжение сплава с остановками для рыбалки и фотографий."
+					},
+					{
+						"day": 5,
+						"description": "Изучение флоры и фауны вдоль реки. Наблюдение за редкими видами."
+					},
+					{
+						"day": 6,
+						"description": "Продолжение путешествия по реке с ночёвкой в диком месте."
+					},
+					{
+						"day": 7,
+						"description": "Завершение сплава и подготовка к возвращению."
+					},
+					{
+						"day": 8,
+						"description": "Окончание сплава, перелёт на вертолёте обратно на базу."
+					},
+					{
+						"day": 9,
+						"description": "Возвращение в Петропавловск-Камчатский, отдых и прощальный ужин."
+					}
+				]
+			},
+			"target_audience": {
+				"title": "Для кого этот тур:",
+				"list": [
+					"Любители экстрима и дикой природы",
+					"Опытные туристы, желающие испытать себя в суровых условиях",
+					"Фотографы и натуралисты, стремящиеся запечатлеть уникальные кадры"
+				]
+			},
+			"packing": {
+				"title": "Что взять с собой:",
+				"list": [
+					"Тёплая и водонепроницаемая одежда",
+					"Надёжная обувь для пересечённой местности",
+					"Специальное снаряжение для сплава (возможно, будет предоставлено)",
+					"Фотоаппарат или камера для съемки природы"
+				]
+			},
+			"tour_includes": {
+				"title": "Стоимость тура включает:",
+				"list": [
+					"Все перелёты и трансферы",
+					"Полное сопровождение гидом и инструкторами",
+					"Проживание в палатках и кемпингах",
+					"Питание в течение всего тура",
+					"Специальное снаряжение для сплава"
+				]
+			},
+			"call_to_action": "Не упустите шанс погрузиться в мир дикости и приключений на реке Пенжина! Забронируйте своё место уже сегодня и отправляйтесь навстречу настоящим приключениям в сердце Камчатки!"
 		}
 	},
 	"ch": {
@@ -411,6 +601,101 @@
 					"airTransport_img": "/img/about/image_3.jpg"
 				}
 			}
+		},
+		"tour1": {
+			"title": "探索堪察加的荒野：奔齐纳河之旅",
+			"title2": "там даже птицы не летают",
+			"description": "我们邀请您参加一场沿着堪察加地区最大河流——奔齐纳河的激动人心的旅程。这是一个专为真正的冒险家设计的独特旅行，在这里您可以体验到堪察加的野性和美丽。您将开始一段漂流探险，穿越俄罗斯最偏远和未被破坏的角落之一，在那里大自然保留了其原始的力量和宏伟。",
+			"highlights": [
+				{
+					"title": "奔齐纳河漂流",
+					"description": "探索这条绵延713公里的雄伟河流，穿越其曲折的河道，享受令人叹为观止的景观和完全独处的感觉。"
+				},
+				{
+					"title": "极端气候",
+					"description": "感受大陆性气候的威力。夜晚寒冷，白天温暖——奔齐纳河的天气总是让人保持警觉。"
+				},
+				{
+					"title": "堪察加的野生动物",
+					"description": "发现森林苔原区丰富的动植物。在途中，您将遇到稀有的鱼类，包括奔齐纳白鲑、堪察加河鳟和鲑鱼，并有机会观察到独特的水鸟。"
+				},
+				{
+					"title": "历史遗址",
+					"description": "参观17世纪著名探险家谢苗·杰日尼奥夫曾经经过的地方，感受自己是这些土地的开拓者。"
+				},
+				{
+					"title": "为真正极限爱好者设计的旅行",
+					"description": "本次旅行专为准备好迎接严峻条件的经验丰富的游客设计。直升机转运、激流漂流、野外露营和完全与文明隔绝的环境——这些都在本次旅行中等待着您。"
+				}
+			],
+			"itinerary": {
+				"days": [
+					{
+						"day": 1,
+						"description": "抵达堪察加，简报并准备探险。"
+					},
+					{
+						"day": 2,
+						"description": "乘坐直升机飞往奔齐纳河，开始漂流。"
+					},
+					{
+						"day": 3,
+						"description": "沿河漂流，在最美丽的地方停留。钓鱼、拍照、探索野生动物。可能会遇到当地居民。"
+					},
+					{
+						"day": 4,
+						"description": "继续漂流，停下来钓鱼和拍照。"
+					},
+					{
+						"day": 5,
+						"description": "探索沿河的动植物。观察稀有物种。"
+					},
+					{
+						"day": 6,
+						"description": "继续沿河旅行，在野外过夜。"
+					},
+					{
+						"day": 7,
+						"description": "完成漂流并准备返回。"
+					},
+					{
+						"day": 8,
+						"description": "漂流结束，乘直升机返回基地。"
+					},
+					{
+						"day": 9,
+						"description": "返回彼得罗巴甫洛夫斯克-堪察加，休息并享用告别晚宴。"
+					}
+				]
+			},
+			"target_audience": {
+				"title": "适合人群:",
+				"list": [
+					"极限运动和野生自然爱好者",
+					"希望在恶劣条件下挑战自我的经验丰富的旅行者",
+					"渴望捕捉独特镜头的摄影师和自然爱好者"
+				]
+			},
+			"packing": {
+				"title": "携带物品:",
+				"list": [
+					"保暖且防水的衣物",
+					"适合崎岖地形的可靠鞋子",
+					"漂流专用装备（可能会提供）",
+					"用于拍摄自然风景的相机或摄影设备"
+				]
+			},
+			"tour_includes": {
+				"title": "费用包括:",
+				"list": [
+					"所有航班和接送服务",
+					"全程由经验丰富的导游和教练陪同",
+					"帐篷和露营地的住宿",
+					"旅行期间的餐食",
+					"漂流专用装备"
+				]
+			},
+			"call_to_action": "不要错过沉浸在奔齐纳河上的荒野和冒险世界的机会！今天就预订您的名额，前往堪察加的心脏地带，迎接真正的冒险吧！"
 		}
 	}
 }
