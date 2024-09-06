@@ -36,7 +36,7 @@
 			},
 			"Ust-Khayryuzovo": {
 				"name": "Ust-Khayryuzovo, Tigil District",
-				"description": "In this area, you can catch Kamchatka crab, as well as chinook, chum, sockeye, and pink salmon. We organize trips on a fishing vessel, where you can see killer whales, catch and release a shark.",
+				"description": "In this area you can catch Kamchatka crab, as well as chinook salmon, chum salmon, sockeye salmon and pink salmon. We organize trips on a fishing vessel where you can see killer whales or sharks.",
 				"img": [
 					"/img/rayon/Ust-Khayryuzovo/slider-1.jpg",
 					"/img/rayon/Ust-Khayryuzovo/slider-2.jpg",
@@ -333,7 +333,7 @@
 				},
 				{
 					"title": "Sharks and Asian Smelt",
-					"description": "Equally thrilling will be the chance to catch and release a shark, as well as catch Asian smelt — a rare trophy for avid fishermen."
+					"description": "No less exciting will be the opportunity to see a shark"
 				}
 			],
 			"itinerary": {
@@ -348,7 +348,7 @@
 					},
 					{
 						"day": "3",
-						"description": "Excursion to Bird Island, observing seabirds. Catching Asian smelt and shark safari. Return to base."
+						"description": "Excursion to Bird Island, observing seabirds. Catching Asian smelt. Return to base."
 					},
 					{
 						"day": "4",
@@ -500,7 +500,7 @@
 			},
 			"Ust-Khayryuzovo": {
 				"name": "Усть-Хайрюзово, Тигильский район",
-				"description": "В этом районе вы сможете поймать Камчатского краба, а также чавычу, кету, нерку и горбушу. Мы организуем выезды на промысловом судне, где можно увидеть касаток, поймать и отпустить акулу.",
+				"description": "В этом районе вы сможете поймать Камчатского краба, а также чавычу, кету, нерку и горбушу. Мы организуем выезды на промысловом судне, где можно увидеть касаток, или акулу.",
 				"img": [
 					"/img/rayon/Ust-Khayryuzovo/slider-1.jpg",
 					"/img/rayon/Ust-Khayryuzovo/slider-2.jpg",
@@ -797,7 +797,7 @@
 				},
 				{
 					"title": "Акулы и азиатская корюшка:",
-					"description": "Не менее захватывающей будет возможность поймать и отпустить акулу, а также добыть азиатскую корюшку — редкий трофей для заядлых рыбаков."
+					"description": "Не менее захватывающей будет возможность увидеть акулу, а также добыть азиатскую корюшку — редкий трофей для заядлых рыбаков."
 				}
 			],
 			"itinerary": {
@@ -812,7 +812,7 @@
 					},
 					{
 						"day": "3",
-						"description": "Экскурсия на Птичий остров, наблюдение за морскими птицами. Ловля азиатской корюшки и акулье сафари. Возвращение на базу."
+						"description": "Экскурсия на Птичий остров, наблюдение за морскими птицами. Ловля азиатской корюшки. Возвращение на базу."
 					},
 					{
 						"day": "4",
@@ -964,7 +964,7 @@
 			},
 			"Ust-Khayryuzovo": {
 				"name": "乌斯特-哈里尤佐沃，堤格尔区",
-				"description": "在这个地区，您可以捕捉到堪察加螃蟹以及大马哈鱼、红鲑和粉鲑。我们组织出海打渔，期间可以看到虎鲸，还可以捕捉并放生鲨鱼。",
+				"description": "在这个地区，您可以捕捉堪察加蟹，以及奇努克鲑鱼，密友鲑鱼，sockeye鲑鱼和粉红色鲑鱼。 我们在渔船上组织旅行，在那里你可以看到虎鲸或鲨鱼。",
 				"img": [
 					"/img/rayon/Ust-Khayryuzovo/slider-1.jpg",
 					"/img/rayon/Ust-Khayryuzovo/slider-2.jpg",
@@ -1261,7 +1261,7 @@
 				},
 				{
 					"title": "鲨鱼和亚洲柳叶鱼",
-					"description": "同样令人兴奋的是有机会捕捉和释放鲨鱼，以及捕捉亚洲柳叶鱼——这是一种稀有的钓鱼战利品。"
+					"description": "同样令人兴奋的是有机会看到鲨鱼"
 				}
 			],
 			"itinerary": {
@@ -1276,7 +1276,7 @@
 					},
 					{
 						"day": "3",
-						"description": "参观鸟岛，观察海鸟。钓捕亚洲柳叶鱼和鲨鱼探险。返回基地。"
+						"description": "游览鸟岛，观察海鸟。 捕捉亚洲气味。 返回基地。"
 					},
 					{
 						"day": "4",
