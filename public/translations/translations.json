@@ -137,6 +137,7 @@
 			}
 		},
 		"tour1": {
+			"numer_tour": "RLU 1161",
 			"title": "Discover the Wilds of Kamchatka: Penzhina River Tour",
 			"title2": "там даже птицы не летают",
 			"description": "We invite you on an exhilarating journey along the largest river in the Kamchatka region — the Penzhina. This is a unique tour for true adventurers, where you can experience the wildness and beauty of Kamchatka. You'll embark on a rafting expedition through one of the most remote and untouched corners of Russia, where nature has preserved its pristine power and grandeur.",
@@ -230,6 +231,236 @@
 				]
 			},
 			"call_to_action": "Don't miss the chance to immerse yourself in the world of wilderness and adventure on the Penzhina River! Book your spot today and embark on a true adventure in the heart of Kamchatka!"
+		},
+		"tour2": {
+			"numer_tour": "РЛУ 1157",
+			"title": "Exclusive Fishing Tour in Karaginsky District, Kamchatka",
+			"description": "The Karaginsky District is one of the most remote and unexplored areas of Kamchatka. We offer you a unique opportunity to visit these wild corners of nature and enjoy an unforgettable fishing adventure. Karaginskaya Bay and Karaginsky Island are unique natural landmarks where you can not only fish but also experience the full power of pristine Kamchatka.",
+			"highlights": [
+				{
+					"title": "Exclusivity of the Offer",
+					"description": "The tour is available only through our company, which owns fishing areas in the most remote regions of Kamchatka. We are the only ones offering fishing expeditions of this level in Russia."
+				},
+				{
+					"title": "Remote and Untouched Places",
+					"description": "The Karaginsky District is one of the most remote and hard-to-reach corners of Kamchatka. During the tour, you will visit unique natural landmarks with no mass tourism."
+				},
+				{
+					"title": "Unique Fish Species",
+					"description": "Opportunity to catch a variety of fish species such as salmon (sockeye, pink, chinook), Kamchatka crab, and even Asian smelt. Participate in commercial fishing, including using commercial nets."
+				},
+				{
+					"title": "Professional Guides",
+					"description": "Our guides are specialists with many years of experience organizing commercial expeditions. The entire tour is organized at the highest level, with full support in the most extreme conditions."
+				},
+				{
+					"title": "Helicopter Flights",
+					"description": "We offer flights to our fishing areas on a Mi-8 helicopter or local airline planes, allowing you to see the picturesque views of Kamchatka from the air."
+				},
+				{
+					"title": "Comfortable Accommodation",
+					"description": "Accommodation at a guesthouse with a thermal pool or in equipped tents at fishing sites, where comfort meets nature."
+				},
+				{
+					"title": "Extreme Conditions and Commercial Fishing",
+					"description": "This is not just a fishing tour — it's a unique experience in extreme conditions of fish harvesting in open seas and rivers, including participation in real commercial expeditions."
+				}
+			],
+			"itinerary": {
+				"days": [
+					{
+						"day": "1",
+						"description": "Arrival in Petropavlovsk-Kamchatsky. Meeting with the guide and transfer to the base. Preparation for the flight by helicopter or plane to the fishing areas."
+					},
+					{
+						"day": "2-7",
+						"description": "Fishing in the Karaginsky District at the fishing sites. You catch various types of fish: salmon, sockeye, pink, chinook, and coho. Both spinning and commercial nets may be used."
+					},
+					{
+						"day": "3",
+						"description": "Return to Petropavlovsk-Kamchatsky and end of the tour."
+					}
+				]
+			},
+			"target_audience": {
+				"title": "Who is this tour for:",
+				"list": [
+					"Nature and fishing enthusiasts: Those who want to challenge themselves in the remote corners of Kamchatka.",
+					"Experienced anglers: If you are interested in commercial fishing and catching rare fish species in extreme conditions.",
+					"Photographers: Opportunity to capture unique views and untouched nature."
+				]
+			},
+			"packing": {
+				"title": "What to bring:",
+				"list": [
+					"Warm and waterproof clothing",
+					"Reliable footwear for rough terrain",
+					"Specialized rafting equipment (may be provided)",
+					"Camera or camcorder for nature photography"
+				]
+			},
+			"tour_includes": {
+				"title": "Tour cost includes:",
+				"list": [
+					"All flights and transfers",
+					"Full guide and instructor support",
+					"Accommodation in tents and campsites",
+					"Meals throughout the tour",
+					"Specialized rafting equipment"
+				]
+			}
+		},
+		"tour3": {
+			"numer_tour": "RLU 1176",
+			"title": "Exclusive Fishing Tour to Ust-Khayryuzovo, Tigil District",
+			"description": "Tigil District, the village of Ust-Khayryuzovo — this is one of the most unique and picturesque points on the western coast of Kamchatka. This place is an ideal starting point for sea expeditions and fishing adventures.",
+			"highlights": [
+				{
+					"title": "Sea Fishing",
+					"description": "In this area, you will have a unique opportunity to go out to the open sea on a real commercial vessel and feel like a professional fisherman. Catching chums, sockeye salmon, chinook, and pink salmon is not just an exciting activity but a real adventure."
+				},
+				{
+					"title": "Kamchatka Crab Fishing",
+					"description": "The Tigil District is famous for the opportunity to catch one of the most prestigious marine delicacies — Kamchatka crab. Experienced guides will help you master this complex and thrilling process."
+				},
+				{
+					"title": "Extreme Conditions",
+					"description": "You will challenge yourself in the harshest conditions by participating in fish catching in open seas using commercial nets."
+				},
+				{
+					"title": "Orca Watching",
+					"description": "During sea trips, you will have a chance to see orcas up close — these majestic mammals often accompany ships in these waters."
+				},
+				{
+					"title": "Sharks and Asian Smelt",
+					"description": "Equally thrilling will be the chance to catch and release a shark, as well as catch Asian smelt — a rare trophy for avid fishermen."
+				}
+			],
+			"itinerary": {
+				"days": [
+					{
+						"day": "1",
+						"description": "Meeting and transfer to the base with a thermal pool or flight to the fishing site. Tour of the area, dinner, and briefing."
+					},
+					{
+						"day": "2",
+						"description": "Early departure to sea on a commercial vessel. Fishing for chum salmon, sockeye salmon, chinook, pink salmon, and Kamchatka crab. Return to base, rest, and dinner."
+					},
+					{
+						"day": "3",
+						"description": "Excursion to Bird Island, observing seabirds. Catching Asian smelt and shark safari. Return to base."
+					},
+					{
+						"day": "4",
+						"description": "Final fishing on the water bodies of the Tigil District. Packing and transfer to the airport."
+					}
+				]
+			},
+			"target_audience": {
+				"title": "Who is this tour for:",
+				"list": [
+					"Nature and fishing enthusiasts: Those who want to challenge themselves in the remote corners of Kamchatka.",
+					"Experienced anglers: If you are interested in commercial fishing and catching rare fish species in extreme conditions.",
+					"Photographers: Opportunity to capture unique views and untouched nature."
+				]
+			},
+			"packing": {
+				"title": "What to bring:",
+				"list": [
+					"Warm and waterproof clothing",
+					"Reliable footwear for rough terrain",
+					"Specialized rafting equipment (may be provided)",
+					"Camera or camcorder for nature photography"
+				]
+			},
+			"tour_includes": {
+				"title": "Tour cost includes:",
+				"list": [
+					"All flights and transfers",
+					"Full guide and instructor support",
+					"Accommodation in tents and campsites",
+					"Meals throughout the tour",
+					"Specialized rafting equipment"
+				]
+			}
+		},
+		"tour4": {
+			"numer_tour": "РЛУ 1171",
+			"title": "Fishing Tour to Volcanoes: Exclusive Journey on the Kamchatka River",
+			"description": "The Kamchatka River is one of the most picturesque and remote places on the peninsula, ideal for lovers of extreme fishing and untouched nature. The unique river flows through wild landscapes with views of the Tolbachik volcanoes, creating an unforgettable atmosphere for the journey. In this tour, you will be able to catch rare fish species such as chum salmon, pink salmon, sockeye, and coho, not only from the shore but also in open waters. Experienced guides will help you master all the nuances of fishing in these conditions and conduct excursions to picturesque surroundings.",
+			"highlights": [
+				{
+					"title": "Unique Fishing in One of Kamchatka's Most Remote Areas",
+					"description": "The Kamchatka River is famous for its rich fishing diversity, including pink salmon, sockeye, chum salmon, and coho. You will have the opportunity to catch these species not only with spinning but also try traditional fishing methods used by local residents."
+				},
+				{
+					"title": "Unforgettable Views of the Tolbachik Volcanoes",
+					"description": "One of the main features of this tour is the incredible landscape, including views of the famous Tolbachik volcanic group. These majestic mountains create a breathtaking panorama that will accompany you throughout the journey."
+				},
+				{
+					"title": "Wild Nature Accommodation",
+					"description": "Guests are offered comfortable accommodation in equipped tents right on the banks of the Kamchatka River. Experience complete immersion in nature while enjoying the pristine silence and solitude surrounded by volcanoes and dense forests."
+				},
+				{
+					"title": "Professional Guides with Many Years of Experience",
+					"description": "You will be accompanied by experienced guides with deep knowledge of the local nature and fishing techniques. They will help you not only catch fish but also conduct excursions to local attractions and share interesting facts about the region."
+				},
+				{
+					"title": "Excursions Along the Kamchatka River",
+					"description": "In addition to fishing, you will go on short excursions around the area where you can see the diversity of Kamchatka's flora and fauna and enjoy the silence of the wild. The opportunity to observe rare birds and animals will add a special charm to your adventure."
+				},
+				{
+					"title": "Eco-Friendly Tourism",
+					"description": "All activities are organized with consideration of eco-tourism principles. You will immerse yourself in the wild nature without human interference, making your rest truly harmonious and safe for the environment."
+				}
+			],
+			"itinerary": {
+				"days": [
+					{
+						"day": "1",
+						"description": "Transfer to the location or flight by helicopter/plane to the Kamchatka River bank. Accommodation in comfortable tents with a view of the Tolbachik volcano. Briefing and introduction to the tour program."
+					},
+					{
+						"day": "2",
+						"description": "Morning departure to the river for fishing for chum salmon, pink salmon, and sockeye. Lunch in nature, rest. Continued fishing for coho. Return to camp, dinner by the campfire."
+					},
+					{
+						"day": "3",
+						"description": "Excursion along the river with panoramic views of the volcanoes. Fishing for sockeye and coho in unique spots. Evening — campfire and tasting of the catch."
+					},
+					{
+						"day": "4",
+						"description": "Morning fishing, final chance to catch a record fish. Return to camp, packing. Transfer to the airport or continuation of the journey."
+					}
+				]
+			},
+			"target_audience": {
+				"title": "Who is this tour for:",
+				"list": [
+					"Nature and fishing enthusiasts: Those who want to challenge themselves in the remote corners of Kamchatka.",
+					"Experienced anglers: If you are interested in commercial fishing and catching rare fish species in extreme conditions.",
+					"Photographers: Opportunity to capture unique views and untouched nature."
+				]
+			},
+			"packing": {
+				"title": "What to bring:",
+				"list": [
+					"Warm and waterproof clothing",
+					"Reliable footwear for rough terrain",
+					"Specialized rafting equipment (may be provided)",
+					"Camera or camcorder for nature photography"
+				]
+			},
+			"tour_includes": {
+				"title": "Tour cost includes:",
+				"list": [
+					"All flights and transfers",
+					"Full guide and instructor support",
+					"Accommodation in tents and campsites",
+					"Meals throughout the tour",
+					"Specialized rafting equipment"
+				]
+			}
 		}
 	},
 	"ru": {
@@ -370,6 +601,7 @@
 			}
 		},
 		"tour1": {
+			"numer_tour": "РЛУ 1161",
 			"title": "Откройте Дикость Камчатки: Тур по Реке Пенжина",
 			"title2": "там даже птицы не летают",
 			"description": "Приглашаем вас в захватывающее путешествие по крупнейшей реке Камчатского края — Пенжине. Это уникальный тур для настоящих искателей приключений, где вы сможете ощутить настоящую дикость и красоту Камчатки. Вас ждёт сплав по одному из самых удалённых и нетронутых уголков России, где природа сохранила свою первозданную силу и величие.",
@@ -463,6 +695,236 @@
 				]
 			},
 			"call_to_action": "Не упустите шанс погрузиться в мир дикости и приключений на реке Пенжина! Забронируйте своё место уже сегодня и отправляйтесь навстречу настоящим приключениям в сердце Камчатки!"
+		},
+		"tour2": {
+			"numer_tour": "РЛУ 1157",
+			"title": "Эксклюзивный рыболовный тур в Карагинский район, Камчатка",
+			"description": "Карагинский район — это одно из самых удалённых и неизведанных мест Камчатки. Мы предлагаем вам уникальную возможность посетить эти дикие уголки природы и насладиться незабываемым рыболовным приключением. Карагинская бухта и остров Карагинский — это уникальные природные объекты, где можно не только порыбачить, но и ощутить всю мощь первозданной Камчатки.",
+			"highlights": [
+				{
+					"title": "Эксклюзивность предложения",
+					"description": "Тур доступен только через нашу компанию, которая владеет рыболовными участками в самых удалённых районах Камчатки. Мы являемся единственными, кто предлагает рыболовные экспедиции такого уровня в России."
+				},
+				{
+					"title": "Отдалённые и нетронутые места",
+					"description": "Карагинский район — это один из самых удалённых и труднодоступных уголков Камчатки. Во время тура вы посетите уникальные природные объекты, где нет массового туризма."
+				},
+				{
+					"title": "Уникальные виды рыбы",
+					"description": "Возможность поймать разнообразные виды рыб, такие как лосось (нерка, горбуша, кета), камчатский краб и даже азиатскую корюшку. Участие в промышленной рыбалке, включая ловлю рыбы с помощью промысловой сети."
+				},
+				{
+					"title": "Профессиональные гиды",
+					"description": "Наши гиды — это специалисты с многолетним опытом организации промысловых экспедиций. Весь тур организован на высочайшем уровне, с полным сопровождением в самых экстремальных условиях."
+				},
+				{
+					"title": "Полёты на вертолётах",
+					"description": "Мы предлагаем полёты на наших участки на вертолёте МИ-8 или самолётах местных авиалиний, что позволит вам увидеть живописные виды Камчатки с воздуха."
+				},
+				{
+					"title": "Проживание в комфортных условиях:",
+					"description": "Проживание на базе отдыха с термальным бассейном или в оборудованных шатрах в местах ловли, где сочетаются комфорт и близость к природе."
+				},
+				{
+					"title": "Экстремальные условия и промысловая рыбалка",
+					"description": "Это не просто рыболовный тур — это уникальный опыт в экстремальных условиях добычи рыбы в открытом море и реке, включая участие в реальных промысловых экспедициях."
+				}
+			],
+			"itinerary": {
+				"days": [
+					{
+						"day": "1",
+						"description": "Прибытие в Петропавловск-Камчатский. Встреча с гидом и трансфер на базу. Подготовка к перелёту на вертолёте или самолёте на рыболовные участки"
+					},
+					{
+						"day": "2-7",
+						"description": "Рыбалка в Карагинском районе на участках. Вы ловите различные виды рыб: лосось, нерка, горбуша, кижуч и кета. Возможно использование как спиннинга, так и промысловых сетей."
+					},
+					{
+						"day": "3",
+						"description": "Возвращение в Петропавловск-Камчатский и завершение тура."
+					}
+				]
+			},
+			"target_audience": {
+				"title": "Для кого этот тур:",
+				"list": [
+					"Любители дикой природы и рыбалки: Тем, кто хочет испытать себя в отдалённых уголках Камчатки.",
+					"Опытные рыболовы: Если вам интересна промышленная рыбалка и ловля редких видов рыб в экстремальных условиях.",
+					"Фотографы: Возможность запечатлеть уникальные виды и нетронутую природу."
+				]
+			},
+			"packing": {
+				"title": "Что взять с собой:",
+				"list": [
+					"Тёплая и водонепроницаемая одежда",
+					"Надёжная обувь для пересечённой местности",
+					"Специальное снаряжение для сплава (возможно, будет предоставлено)",
+					"Фотоаппарат или камера для съемки природы"
+				]
+			},
+			"tour_includes": {
+				"title": "Стоимость тура включает:",
+				"list": [
+					"Все перелёты и трансферы",
+					"Полное сопровождение гидом и инструкторами",
+					"Проживание в палатках и кемпингах",
+					"Питание в течение всего тура",
+					"Специальное снаряжение для сплава"
+				]
+			}
+		},
+		"tour3": {
+			"numer_tour": "РЛУ 1176",
+			"title": "Эксклюзивный рыболовный Усть-Хайрюзово, Тигильский район",
+			"description": "Тигильский район, поселок Усть-Хайрюзово — это одна из самых уникальных и живописных точек на западном побережье Камчатки. Это место является идеальной отправной точкой для морских экспедиций и рыболовных приключений.",
+			"highlights": [
+				{
+					"title": "Морская рыбалка:",
+					"description": "В этом районе у вас будет уникальная возможность выйти в открытое море на настоящем промысловом судне и почувствовать себя профессиональным рыбаком. Вылов чавычи, нерки, кеты и горбуши — не просто увлекательное занятие, но и настоящее приключение"
+				},
+				{
+					"title": "Ловля камчатского краба:",
+					"description": "Тигильский район славится возможностью поймать одного из самых престижных морских деликатесов — камчатского краба. Опытные гиды помогут вам освоить этот сложный и захватывающий процесс."
+				},
+				{
+					"title": "Экстремальные условия:",
+					"description": "Вы испытаете себя в самых суровых условиях, участвуя в ловле рыбы в открытом море с помощью промысловой сети."
+				},
+				{
+					"title": "Наблюдение за касатками:",
+					"description": "Во время морских путешествий у вас будет шанс увидеть касаток вблизи — эти величественные млекопитающие часто сопровождают суда в этих водах."
+				},
+				{
+					"title": "Акулы и азиатская корюшка:",
+					"description": "Не менее захватывающей будет возможность поймать и отпустить акулу, а также добыть азиатскую корюшку — редкий трофей для заядлых рыбаков."
+				}
+			],
+			"itinerary": {
+				"days": [
+					{
+						"day": "1",
+						"description": "Встреча и трансфер на базу с термальным бассейном или вылет на место лова.Экскурсия по местности, ужин и инструктаж."
+					},
+					{
+						"day": "2",
+						"description": "Ранний выход в море на промысловом судне. Рыбалка на чавычу, нерку, кету, горбушу и ловля камчатского краба. Возвращение на базу, отдых и ужин."
+					},
+					{
+						"day": "3",
+						"description": "Экскурсия на Птичий остров, наблюдение за морскими птицами. Ловля азиатской корюшки и акулье сафари. Возвращение на базу."
+					},
+					{
+						"day": "4",
+						"description": "Заключительная рыбалка на водоемах Тигильского района. Сборы и трансфер в аэропорт."
+					}
+				]
+			},
+			"target_audience": {
+				"title": "Для кого этот тур:",
+				"list": [
+					"Любители дикой природы и рыбалки: Тем, кто хочет испытать себя в отдалённых уголках Камчатки.",
+					"Опытные рыболовы: Если вам интересна промышленная рыбалка и ловля редких видов рыб в экстремальных условиях.",
+					"Фотографы: Возможность запечатлеть уникальные виды и нетронутую природу."
+				]
+			},
+			"packing": {
+				"title": "Что взять с собой:",
+				"list": [
+					"Тёплая и водонепроницаемая одежда",
+					"Надёжная обувь для пересечённой местности",
+					"Специальное снаряжение для сплава (возможно, будет предоставлено)",
+					"Фотоаппарат или камера для съемки природы"
+				]
+			},
+			"tour_includes": {
+				"title": "Стоимость тура включает:",
+				"list": [
+					"Все перелёты и трансферы",
+					"Полное сопровождение гидом и инструкторами",
+					"Проживание в палатках и кемпингах",
+					"Питание в течение всего тура",
+					"Специальное снаряжение для сплава"
+				]
+			}
+		},
+		"tour4": {
+			"numer_tour": "РЛУ 1171",
+			"title": "Рыболовный тур к вулканам: Эксклюзивное путешествие по реке Камчатке",
+			"description": "Река Камчатка — это одно из самых живописных и удаленных мест на полуострове, идеально подходящее для любителей экстремальной рыбалки и нетронутой природы. Уникальная река проходит через дикие ландшафты с видами на вулканы Толбачик, что создает незабываемую атмосферу для путешествия. В этом туре вы сможете поймать редкие виды рыб, такие как чавыча, кета, нерка и кижуч, не только с берега, но и в открытых водах. Опытные гиды помогут вам освоить все тонкости рыбалки в этих условиях и проведут экскурсии по живописным окрестностям.",
+			"highlights": [
+				{
+					"title": "Уникальная рыбалка в одном из самых отдаленных мест Камчатки:",
+					"description": "Река Камчатка знаменита своим богатым рыболовным разнообразием, включая кеты, нерки, чавычи и кижуча. Вы испытаете возможность поймать эти виды не только на спиннинг, но и попробуете традиционные методы рыбалки, используемые местными жителями."
+				},
+				{
+					"title": "Незабываемые виды на вулканы Толбачик:",
+					"description": "Одной из главных особенностей этого тура является невероятный пейзаж, включающий в себя виды на знаменитую вулканическую группу Толбачик. Эти величественные горы создают захватывающую панораму, которая будет сопровождать вас на протяжении всего путешествия."
+				},
+				{
+					"title": "Проживание в дикой природе:",
+					"description": "Гостям предлагается комфортное размещение в оборудованных шатрах прямо на берегу реки Камчатка. Ощутите полное слияние с природой, наслаждаясь первозданной тишиной и уединением в окружении вулканов и густых лесов."
+				},
+				{
+					"title": "Профессиональные гиды с многолетним опытом:",
+					"description": "Вас будут сопровождать опытные гиды, обладающие глубокими знаниями местной природы и рыболовных техник. Они помогут вам не только наловить рыбы, но и проведут экскурсии по местным достопримечательностям и расскажут интересные факты о регионе."
+				},
+				{
+					"title": "Экскурсии по берегам реки Камчатка:",
+					"description": "Помимо рыбалки, вы отправитесь в короткие экскурсии по окрестностям, где сможете увидеть разнообразие флоры и фауны Камчатки, а также насладиться тишиной дикой природы. Возможность наблюдать редких птиц и животных добавит особенный шарм вашему приключению."
+				},
+				{
+					"title": "Экологически чистый туризм:",
+					"description": "Все мероприятия организованы с учетом принципов экологического туризма. Вас ждёт погружение в дикую природу без следа человеческого вмешательства, что сделает ваш отдых по-настоящему гармоничным и безопасным для окружающей среды."
+				}
+			],
+			"itinerary": {
+				"days": [
+					{
+						"day": "1",
+						"description": "рансфер на место или вылет на вертолете/самолете на берег реки Камчатка. Размещение в комфортных шатрах с видом на вулкан Толбачик. Инструктаж и знакомство с программой тура."
+					},
+					{
+						"day": "2",
+						"description": "Утренний выход на реку для рыбалки на чавычу, кету и нерку. Обед на природе, отдых. Продолжение рыбалки на кижуча. Возвращение в лагерь, ужин у костра."
+					},
+					{
+						"day": "3",
+						"description": "Экскурсия вдоль реки с панорамными видами на вулканы. Рыбалка на нерку и кижуча в уникальных местах. Вечером — костер и дегустация улова."
+					},
+					{
+						"day": "4",
+						"description": "Утренний выход на рыбалку, последний шанс поймать рекордную рыбу. Возвращение в лагерь, сборы. Трансфер в аэропорт или продолжение путешествия."
+					}
+				]
+			},
+			"target_audience": {
+				"title": "Для кого этот тур:",
+				"list": [
+					"Любители дикой природы и рыбалки: Тем, кто хочет испытать себя в отдалённых уголках Камчатки.",
+					"Опытные рыболовы: Если вам интересна промышленная рыбалка и ловля редких видов рыб в экстремальных условиях.",
+					"Фотографы: Возможность запечатлеть уникальные виды и нетронутую природу."
+				]
+			},
+			"packing": {
+				"title": "Что взять с собой:",
+				"list": [
+					"Тёплая и водонепроницаемая одежда",
+					"Надёжная обувь для пересечённой местности",
+					"Специальное снаряжение для сплава (возможно, будет предоставлено)",
+					"Фотоаппарат или камера для съемки природы"
+				]
+			},
+			"tour_includes": {
+				"title": "Стоимость тура включает:",
+				"list": [
+					"Все перелёты и трансферы",
+					"Полное сопровождение гидом и инструкторами",
+					"Проживание в палатках и кемпингах",
+					"Питание в течение всего тура",
+					"Специальное снаряжение для сплава"
+				]
+			}
 		}
 	},
 	"ch": {
@@ -603,6 +1065,7 @@
 			}
 		},
 		"tour1": {
+			"numer_tour": "РЛУ 1161",
 			"title": "探索堪察加的荒野：奔齐纳河之旅",
 			"title2": "там даже птицы не летают",
 			"description": "我们邀请您参加一场沿着堪察加地区最大河流——奔齐纳河的激动人心的旅程。这是一个专为真正的冒险家设计的独特旅行，在这里您可以体验到堪察加的野性和美丽。您将开始一段漂流探险，穿越俄罗斯最偏远和未被破坏的角落之一，在那里大自然保留了其原始的力量和宏伟。",
@@ -696,6 +1159,236 @@
 				]
 			},
 			"call_to_action": "不要错过沉浸在奔齐纳河上的荒野和冒险世界的机会！今天就预订您的名额，前往堪察加的心脏地带，迎接真正的冒险吧！"
+		},
+		"tour2": {
+			"numer_tour": "РЛУ 1157",
+			"title": "独家钓鱼之旅：卡拉金斯基地区，堪察加",
+			"description": "卡拉金斯基地区是堪察加最偏远和未开发的地方之一。我们为您提供了一个独特的机会，前往这些自然的荒野，享受一场难忘的钓鱼冒险。卡拉金斯基湾和卡拉金斯基岛是独特的自然景点，您不仅可以钓鱼，还可以感受原始堪察加的全貌。",
+			"highlights": [
+				{
+					"title": "独家优惠",
+					"description": "该旅游仅通过我们公司提供，我们拥有堪察加最偏远地区的钓鱼区域。我们是唯一提供这种级别钓鱼探险的公司。"
+				},
+				{
+					"title": "偏远且未经开发的地方",
+					"description": "卡拉金斯基地区是堪察加最偏远和难以到达的角落之一。在旅行期间，您将参观没有大众旅游的独特自然景点。"
+				},
+				{
+					"title": "独特的鱼种",
+					"description": "有机会捕捉各种鱼类，如鲑鱼（红鲑、粉红鲑、奇努克鲑）、堪察加蟹，甚至亚洲柳叶鱼。参与商业捕鱼，包括使用商业网。"
+				},
+				{
+					"title": "专业向导",
+					"description": "我们的向导是拥有多年商业探险组织经验的专家。整个旅行组织在最高水平下进行，提供最极端条件下的全程支持。"
+				},
+				{
+					"title": "直升机飞行",
+					"description": "我们提供乘坐Mi-8直升机或当地航班飞往钓鱼区域的服务，让您从空中欣赏堪察加的美丽景色。"
+				},
+				{
+					"title": "舒适的住宿",
+					"description": "在钓鱼地点的度假基地或装备齐全的帐篷中住宿，舒适与自然的完美结合。"
+				},
+				{
+					"title": "极限条件和商业捕鱼",
+					"description": "这不仅仅是一次钓鱼之旅——这是在极端条件下的独特体验，包括在开放海域和河流中的实际商业探险。"
+				}
+			],
+			"itinerary": {
+				"days": [
+					{
+						"day": "1",
+						"description": "抵达彼得罗巴甫洛夫斯克-堪察加。与向导会面，并转移到基地。准备乘坐直升机或飞机前往钓鱼区域。"
+					},
+					{
+						"day": "2-7",
+						"description": "在卡拉金斯基地区的钓鱼地点进行钓鱼。您将钓到各种鱼类：鲑鱼、红鲑、粉红鲑、奇努克鲑和其他鱼类。可以使用抛竿或商业网。"
+					},
+					{
+						"day": "3",
+						"description": "返回彼得罗巴甫洛夫斯克-堪察加，结束旅行。"
+					}
+				]
+			},
+			"target_audience": {
+				"title": "适合谁的旅游：",
+				"list": [
+					"自然和钓鱼爱好者：那些希望在堪察加偏远角落挑战自我的人。",
+					"有经验的钓鱼者：如果您对商业捕鱼和在极端条件下捕捉稀有鱼类感兴趣。",
+					"摄影师：捕捉独特景观和未开发自然的机会。"
+				]
+			},
+			"packing": {
+				"title": "带什么：",
+				"list": [
+					"保暖防水的衣物",
+					"适合崎岖地形的可靠鞋子",
+					"特别的漂流装备（可能会提供）",
+					"用于自然摄影的相机或摄像机"
+				]
+			},
+			"tour_includes": {
+				"title": "旅游费用包括：",
+				"list": [
+					"所有航班和转机",
+					"全面的向导和教练支持",
+					"帐篷和露营地的住宿",
+					"整个旅游期间的餐饮",
+					"特别的漂流装备"
+				]
+			}
+		},
+		"tour3": {
+			"numer_tour": "РЛУ 1176",
+			"title": "独家钓鱼之旅：乌斯特-海柳佐沃，提吉尔地区",
+			"description": "提吉尔地区，乌斯特-海柳佐沃村——这是堪察加西海岸最独特和最美丽的地方之一。这里是海洋探险和钓鱼冒险的理想起点。",
+			"highlights": [
+				{
+					"title": "海洋钓鱼",
+					"description": "在这个区域，您将有机会乘坐真正的商业渔船出海，感受专业渔民的感觉。钓捕青鳟、红鲑、奇努克鲑和粉红鲑不仅是一个令人兴奋的活动，更是一场真正的冒险。"
+				},
+				{
+					"title": "捕捉堪察加蟹",
+					"description": "提吉尔地区因捕捉堪察加蟹而闻名，这是一种非常受欢迎的海洋美味。经验丰富的向导将帮助您掌握这种复杂且令人兴奋的过程。"
+				},
+				{
+					"title": "极端条件",
+					"description": "您将在最严酷的条件下挑战自己，参与使用商业网捕捉海洋鱼类。"
+				},
+				{
+					"title": "观察虎鲸",
+					"description": "在海上旅行期间，您将有机会近距离观察虎鲸——这些雄伟的哺乳动物经常在这些水域伴随船只。"
+				},
+				{
+					"title": "鲨鱼和亚洲柳叶鱼",
+					"description": "同样令人兴奋的是有机会捕捉和释放鲨鱼，以及捕捉亚洲柳叶鱼——这是一种稀有的钓鱼战利品。"
+				}
+			],
+			"itinerary": {
+				"days": [
+					{
+						"day": "1",
+						"description": "与向导会面并转移到带温泉池的基地，或飞往钓鱼地点。参观当地，晚餐和简报。"
+					},
+					{
+						"day": "2",
+						"description": "早晨出海，乘坐商业渔船。钓捕青鳟、红鲑、奇努克鲑、粉红鲑，及捕捉堪察加蟹。返回基地，休息和晚餐。"
+					},
+					{
+						"day": "3",
+						"description": "参观鸟岛，观察海鸟。钓捕亚洲柳叶鱼和鲨鱼探险。返回基地。"
+					},
+					{
+						"day": "4",
+						"description": "最后一次钓鱼，捕捉大鱼的机会。整理行装并转移到机场。"
+					}
+				]
+			},
+			"target_audience": {
+				"title": "适合谁的旅游：",
+				"list": [
+					"自然和钓鱼爱好者：那些希望在堪察加偏远角落挑战自我的人。",
+					"有经验的钓鱼者：如果您对商业捕鱼和在极端条件下捕捉稀有鱼类感兴趣。",
+					"摄影师：捕捉独特景观和未开发自然的机会。"
+				]
+			},
+			"packing": {
+				"title": "带什么：",
+				"list": [
+					"保暖防水的衣物",
+					"适合崎岖地形的可靠鞋子",
+					"特别的漂流装备（可能会提供）",
+					"用于自然摄影的相机或摄像机"
+				]
+			},
+			"tour_includes": {
+				"title": "旅游费用包括：",
+				"list": [
+					"所有航班和转机",
+					"全面的向导和教练支持",
+					"帐篷和露营地的住宿",
+					"整个旅游期间的餐饮",
+					"特别的漂流装备"
+				]
+			}
+		},
+		"tour4": {
+			"numer_tour": "РЛУ 1171",
+			"title": "火山探险钓鱼之旅：堪察河独家旅行",
+			"description": "堪察河是堪察加最风景如画和最偏远的地方之一，非常适合极限钓鱼爱好者和原始自然爱好者。独特的河流穿过荒野，俯瞰托尔巴奇克火山，为旅行营造了难忘的氛围。在这次旅行中，您将有机会捕捉到罕见的鱼类，如青鳟、鲑鱼、红鲑和奇努克鲑，不仅可以在岸边，还可以在开阔水域进行。经验丰富的向导将帮助您掌握这些条件下的所有钓鱼技巧，并带领您参观风景如画的周边地区。",
+			"highlights": [
+				{
+					"title": "在堪察加最偏远的地方独特钓鱼体验",
+					"description": "堪察河以其丰富的鱼类多样性而闻名，包括鲑鱼、红鲑、青鳟和奇努克鲑。您将有机会不仅用抛竿钓鱼，还可以尝试当地人使用的传统钓鱼方法。"
+				},
+				{
+					"title": "托尔巴奇克火山的难忘风景",
+					"description": "此行程的一大亮点是令人叹为观止的景色，包括托尔巴奇克火山群的壮丽景观。这些宏伟的山脉将伴随您整个旅行，创造出令人激动的全景。"
+				},
+				{
+					"title": "野外住宿",
+					"description": "客人将提供舒适的帐篷住宿，直接位于堪察河岸边。感受完全融入自然的宁静和隐秘，欣赏火山和浓密森林的美景。"
+				},
+				{
+					"title": "经验丰富的向导",
+					"description": "将有经验丰富的向导陪伴，他们拥有对当地自然和钓鱼技术的深刻了解。他们将帮助您捕捉鱼类，并带您参观当地的名胜古迹，讲述有关该地区的有趣事实。"
+				},
+				{
+					"title": "堪察河岸的短途旅行",
+					"description": "除了钓鱼，您还将进行短途旅行，探索堪察加的动植物多样性，享受大自然的宁静。观察稀有的鸟类和动物将为您的冒险增添特殊的魅力。"
+				},
+				{
+					"title": "生态旅游",
+					"description": "所有活动都以生态旅游原则为基础组织。您将沉浸在没有人为干扰的原始自然中，使您的休息真正和谐且对环境安全。"
+				}
+			],
+			"itinerary": {
+				"days": [
+					{
+						"day": "1",
+						"description": "转机到堪察河岸或乘坐直升机/飞机前往。入住舒适的帐篷，俯瞰托尔巴奇克火山。简报和介绍旅行计划。"
+					},
+					{
+						"day": "2",
+						"description": "早晨出发去河边钓青鳟、鲑鱼和红鲑。在自然中午餐，休息。继续钓奇努克鲑。返回营地，篝火晚餐。"
+					},
+					{
+						"day": "3",
+						"description": "沿河流进行短途旅行，俯瞰火山的全景。钓红鲑和奇努克鲑。在晚上，享受篝火和尝试捕获的鱼类。"
+					},
+					{
+						"day": "4",
+						"description": "早晨钓鱼，最后机会捕捉纪录鱼。返回营地，整理行装。转机到机场或继续旅行。"
+					}
+				]
+			},
+			"target_audience": {
+				"title": "适合谁的旅游：",
+				"list": [
+					"自然和钓鱼爱好者：那些希望在堪察加偏远角落挑战自我的人。",
+					"有经验的钓鱼者：如果您对商业捕鱼和在极端条件下捕捉稀有鱼类感兴趣。",
+					"摄影师：捕捉独特景观和未开发自然的机会。"
+				]
+			},
+			"packing": {
+				"title": "带什么：",
+				"list": [
+					"保暖防水的衣物",
+					"适合崎岖地形的可靠鞋子",
+					"特别的漂流装备（可能会提供）",
+					"用于自然摄影的相机或摄像机"
+				]
+			},
+			"tour_includes": {
+				"title": "旅游费用包括：",
+				"list": [
+					"所有航班和转机",
+					"全面的向导和教练支持",
+					"帐篷和露营地的住宿",
+					"整个旅游期间的餐饮",
+					"特别的漂流装备"
+				]
+			}
 		}
 	}
 }

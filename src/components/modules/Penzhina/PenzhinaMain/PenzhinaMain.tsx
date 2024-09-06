@@ -10,6 +10,7 @@ const PenzhinaMain = () => {
 			<h1 className={cl.PenzhinaMain__title}>
 				{translations[lang].tour1.title}
 			</h1>
+			<h3>{translations[lang].tour1.numer_tour} </h3>
 			<h2 className={cl.PenzhinaMain__subtitle}>
 				{translations[lang].tour1.title2}
 			</h2>

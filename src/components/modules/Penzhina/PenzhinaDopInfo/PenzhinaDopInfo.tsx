@@ -11,11 +11,11 @@ import 'swiper/css/effect-cards';
 const PenzhinaDopInfo = () => {
 	const { lang, translations } = useLang();
 	const imeges = translations[lang].listObject.Penzhina.img;
-	const targetAudience = translations[lang].tour1.target_audience.list;
-	const packing = translations[lang].tour1.packing.list;
-	const tourIncludes = translations[lang].tour1.tour_includes.list;
+	const targetAudience = translations[lang].tour1.target_audience;
+	const packing = translations[lang].tour1.packing;
+	const tourIncludes = translations[lang].tour1.tour_includes;
 	return (
-		<div className={cl.container}>
+		<div className={`${cl.container} column`}>
 			<div className={`${cl.box_info}  box_rayon`}>
 				<Swiper
 					effect={'cards'}
@@ -36,6 +36,62 @@ const PenzhinaDopInfo = () => {
 						</SwiperSlide>
 					))}
 				</Swiper>
+			</div>
+			<div className={cl['box_info__list_items']}>
+				<div className={cl['box_info__wrap']}>
+					<div className={cl['box_info__box']}>
+						<Image
+							src={'/img/icon/stall.svg'}
+							width={40}
+							height={40}
+							alt="icon"
+						/>
+						<h3 className={cl['box_info__title']}>{targetAudience.title}</h3>
+					</div>
+					<ul className={cl['box_info__list']}>
+						{targetAudience.list.map((item, i) => (
+							<li key={i} className={cl['box_info__item']}>
+								{item}
+							</li>
+						))}
+					</ul>
+				</div>
+				<div className={cl['box_info__wrap']}>
+					<div className={cl['box_info__box']}>
+						<Image
+							src={'/img/icon/rod.svg'}
+							width={40}
+							height={40}
+							alt="icon"
+						/>
+						<h3 className={cl['box_info__title']}>{tourIncludes.title}</h3>
+					</div>
+					<ul className={cl['box_info__list']}>
+						{tourIncludes.list.map((item, i) => (
+							<li key={i} className={cl['box_info__item']}>
+								{item}
+							</li>
+						))}
+					</ul>
+				</div>
+				<div className={cl['box_info__wrap']}>
+					<div className={cl['box_info__box']}>
+						<Image
+							src={'/img/icon/backpack.svg'}
+							width={40}
+							height={40}
+							alt="icon"
+						/>
+						<h3 className={cl['box_info__title']}>{packing.title}</h3>
+					</div>
+					<ul className={cl['box_info__list']}>
+						{packing.list.map((item, i) => (
+							<li key={i} className={cl['box_info__item']}>
+								{item}
+							</li>
+						))}
+					</ul>
+				</div>
 			</div>
 		</div>
 	);

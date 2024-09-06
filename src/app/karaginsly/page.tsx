@@ -1,7 +1,18 @@
+import KaraginslyDay from '@/components/modules/Karaginsly/KaraginslyDay/KaraginslyDay';
+import KaraginslyDopInfo from '@/components/modules/Karaginsly/KaraginslyDopInfo/KaraginslyDopInfo';
+import KaraginslyInfo from '@/components/modules/Karaginsly/KaraginslyInfo/KaraginslyInfo';
+import KaraginslyMain from '@/components/modules/Karaginsly/KaraginslyMain/KaraginslyMain';
 import React from 'react';
 
-const Page = () => {
-	return <div>ffffffffffff</div>;
+const page = () => {
+	return (
+		<div>
+			<KaraginslyMain />
+			<KaraginslyInfo />
+			<KaraginslyDay />
+			<KaraginslyDopInfo />
+		</div>
+	);
 };
 
-export default Page;
+export default page;

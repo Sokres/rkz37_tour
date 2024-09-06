@@ -1,0 +1,43 @@
+.penzhinaDay {
+    margin-top: 40px;
+    background-image: url('/img/penzhina/line.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.penzhinaDay_list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.penzhinaDay_listItem {
+    width: calc(25% - 20px);
+    display: grid;
+    justify-content: center;
+}
+
+.penzhinaDay_listItemTitle {
+    font-size: 2.5rem;
+}
+
+@media (width < 724px) {
+    .penzhinaDay_listItem {
+        width: calc(50% - 20px);
+        display: grid;
+        justify-content: center;
+    }
+}
+
+@media (width < 524px) {
+
+
+    .penzhinaDay_listItem {
+        width: calc(50% - 20px);
+        display: grid;
+        justify-content: center;
+    }
+}

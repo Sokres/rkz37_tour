@@ -1,0 +1,29 @@
+.PenzhinaMain {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 80dvh;
+    background-image: url("/img/penzhina/penzhina_bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.PenzhinaMain__title {
+    font-size: 4rem;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 1px #020227;
+}
+
+.PenzhinaMain__subtitle {
+    font-size: 3rem;
+    font-family: MarckScript;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 1px #020227;
+}
+
+@media (width < 724px) {
+    .PenzhinaMain__title {
+        font-size: 3rem;
+    }
+}

@@ -1,0 +1,41 @@
+.penzhinaInfo__description {
+    font-size: 3rem;
+}
+
+.penzhinaInfo__wrap {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.penzhinaInfo__highlight_img {
+    width: 100%;
+    height: auto;
+}
+
+.penzhinaInfo__highlight {
+    align-self: center;
+}
+
+.penzhinaInfo__highlight_title {
+    font-size: 2rem;
+}
+
+@media (width < 794px) {
+    .penzhinaInfo__wrap {
+        grid-template-columns: 1fr;
+    }
+
+    .penzhinaInfo__highlight_img {
+        order: -1;
+    }
+
+    .penzhinaInfo__description {
+        font-size: 2rem;
+    }
+}
+
+@media (width < 524px) {
+    .penzhinaInfo__description {
+        font-size: 2rem;
+    }
+}
