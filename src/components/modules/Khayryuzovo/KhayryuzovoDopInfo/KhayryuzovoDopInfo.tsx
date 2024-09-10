@@ -11,9 +11,9 @@ import 'swiper/css/effect-cards';
 const KhayryuzovoDopInfo = () => {
 	const { lang, translations } = useLang();
 	const imeges = translations[lang].listObject['Ust-Khayryuzovo'].img;
-	const targetAudience = translations[lang].tour2.target_audience;
-	const packing = translations[lang].tour2.packing;
-	const tourIncludes = translations[lang].tour2.tour_includes;
+	const targetAudience = translations[lang].tour3.target_audience;
+	const packing = translations[lang].tour3.packing;
+	const tourIncludes = translations[lang].tour3.tour_includes;
 	return (
 		<div className={`${cl.container} column`}>
 			<div className={`${cl.box_info}  box_rayon`}>

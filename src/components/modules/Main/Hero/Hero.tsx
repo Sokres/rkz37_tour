@@ -35,7 +35,7 @@ const Hero = ({ children }: { children: ReactNode }) => {
 					<p className="main_discription">
 						{translations[lang].main.extreme_fishing}
 					</p>
-					<Link className="main__btn" href="#tour">
+					<Link className="main__btn" href="/tours">
 						{translations[lang].main.btn_to_tours}
 					</Link>
 				</div>

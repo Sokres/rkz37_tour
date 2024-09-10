@@ -5,11 +5,11 @@ import cl from './KhayryuzovoInfo.module.css';
 import Image from 'next/image';
 const KhayryuzovoInfo = () => {
 	const { lang, translations } = useLang();
-	const highlights = translations[lang].tour2.highlights;
+	const highlights = translations[lang].tour3.highlights;
 	return (
 		<section className={`${cl.penzhinaInfo} column`}>
 			<p className={cl.penzhinaInfo__description}>
-				{translations[lang].tour2.description}
+				{translations[lang].tour3.description}
 			</p>
 			<div className={cl.penzhinaInfo__wrap}>
 				<div className={cl.penzhinaInfo__highlight}>

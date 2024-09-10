@@ -5,7 +5,7 @@ import { useLang } from '@/hook/useLang';
 
 const KhayryuzovoDay = () => {
 	const { lang, translations } = useLang();
-	const daysList = translations[lang].tour2.itinerary.days;
+	const daysList = translations[lang].tour3.itinerary.days;
 	return (
 		<section className={`${cl.penzhinaDay} column`}>
 			<ul className={cl.penzhinaDay_list}>

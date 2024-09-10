@@ -8,9 +8,9 @@ const KhayryuzovoMain = () => {
 	return (
 		<main className={`${cl.PenzhinaMain} column`}>
 			<h1 className={cl.PenzhinaMain__title}>
-				{translations[lang].tour2.title}
+				{translations[lang].tour3.title}
 			</h1>
-			<h3>{translations[lang].tour2.numer_tour} </h3>
+			<h3>{translations[lang].tour3.numer_tour} </h3>
 		</main>
 	);
 };
