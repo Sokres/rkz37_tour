@@ -20,6 +20,11 @@
     color: var(--color-white);
 }
 
+.footer__info {
+    display: block;
+    color: var(--color-white);
+}
+
 @media (width < 512px) {
     .footer {
         display: flex;
