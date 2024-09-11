@@ -121,11 +121,7 @@
 					"exclusivity_description": "We offer access to the most remote and unique locations, inaccessible to ordinary tourists. Your journey will be a true discovery, with every route carefully planned to allow you to enjoy pristine nature and fishing at the highest level.",
 					"exclusivity_img": "/img/about/image_4.jpg"
 				},
-				"technique": {
-					"technique_title": "Our Own Equipment and Areas:",
-					"technique_description": "We use only our own off-road vehicles and transport our guests to our own fishing areas. This guarantees the highest level of control and comfort.",
-					"technique_img": "/img/about/image_1.jpg"
-				},
+
 				"guides": {
 					"guides_title": "Professional Guides",
 					"guides_description": "Our guides are true professionals in commercial fishing and geological expeditions. They are ready to tackle difficult routes and provide you with unparalleled support in the most hard-to-reach places.",
@@ -194,11 +190,6 @@
 					{
 						"day": 7,
 						"description": "Completion of the rafting and preparation for the return."
-					},
-
-					{
-						"day": 8,
-						"description": "Return to Petropavlovsk-Kamchatsky, rest and farewell dinner."
 					}
 				]
 			},
@@ -329,10 +320,6 @@
 				{
 					"title": "Orca Watching",
 					"description": "During sea trips, you will have a chance to see orcas up close — these majestic mammals often accompany ships in these waters."
-				},
-				{
-					"title": "Sharks and Asian Smelt",
-					"description": "No less exciting will be the opportunity to see a shark"
 				}
 			],
 			"itinerary": {
@@ -499,7 +486,7 @@
 			},
 			"Ust-Khayryuzovo": {
 				"name": "Усть-Хайрюзово, Тигильский район",
-				"description": "В этом районе вы сможете поймать Камчатского краба, а также чавычу, кету, нерку и горбушу. Мы организуем выезды на промысловом судне, где можно увидеть касаток, или акулу.",
+				"description": "В этом районе вы сможете поймать Камчатского краба, а также чавычу, кету, нерку и горбушу. Мы организуем выезды на промысловом судне, где можно увидеть касаток",
 				"img": [
 					"/img/rayon/Ust-Khayryuzovo/slider-1.jpg",
 					"/img/rayon/Ust-Khayryuzovo/slider-2.jpg",
@@ -511,7 +498,7 @@
 			},
 			"Kamchatka": {
 				"name": "река Камчатка, Мильковский район",
-				"description": "Уникальное место с видом на вулканы Толбачик. Здесь вы сможете выловить кету, нерку, чавычу и кижуча.",
+				"description": "Уникальное место с видом на Ключевскую группу вулканов, Толбачик. Здесь вы сможете выловить кету, нерку, чавычу и кижуча.",
 				"img": [
 					"/img/rayon/Kamchatka/slider-1.jpg",
 					"/img/rayon/Kamchatka/slider-2.jpg",
@@ -577,18 +564,14 @@
 		"companyDescription": {
 			"img": "/img/bg_about.jpg",
 			"about_title": "Добро пожаловать в ООО РКЗ 37",
-			"about": " — эксклюзивного оператора приключенческого туризма в самых удалённых уголках. Мы специализируемся на организации уникальных промысловых рыболовных туров и геологических экспедиций, избегая массового туризма и предлагая вам возможность прикоснуться к нетронутой природе и рыбным запасам нашего региона.",
+			"about": " — Мы организуем эксклюзивные экспедиционные туры рыболовные и промышленные туры  в самые отдаленные локации Камчатки .",
 			"benefits": {
 				"exclusivity": {
 					"exclusivity_title": "Эксклюзивность:",
-					"exclusivity_description": "Мы предлагаем доступ к самым удаленным и уникальным местам, недоступным для обычных туристов. Ваше путешествие станет настоящим открытием, где каждый маршрут продуман до мелочей, чтобы вы могли насладиться первозданной природой и рыболовством на высшем уровне.",
+					"exclusivity_description": "Мы предлагаем доступ к самым удаленным и уникальным местам, недоступным для обычных туристов. Ваше путешествие станет настоящим открытием, где каждый маршрут продуман до мелочей, чтобы вы могли насладиться первозданной природой и рыболовством на высшем уровне. Наша компания имеет закрепленные рыболовные участки и собственный парк внедорожной техники для для самых сложных маршрутов",
 					"exclusivity_img": "/img/about/image_4.jpg"
 				},
-				"technique": {
-					"technique_title": "Собственная техника и участки:",
-					"technique_description": "Мы используем только собственную внедорожную технику и транспортируем наших гостей на собственные рыболовные участки. Это гарантирует высший уровень контроля и комфорта.",
-					"technique_img": "/img/about/image_1.jpg"
-				},
+
 				"guides": {
 					"guides_title": "Профессиональные гиды",
 					"guides_description": "Наши гиды — это настоящие профессионалы в области промышленного рыболовства и геологических экспедиций. Они готовы преодолевать сложные маршруты и обеспечивать вам непревзойденную поддержку в самых труднодоступных местах.",
@@ -657,10 +640,6 @@
 					{
 						"day": 7,
 						"description": "Завершение сплава и подготовка к возвращению."
-					},
-					{
-						"day": 8,
-						"description": "Возвращение в Петропавловск-Камчатский, отдых и прощальный ужин."
 					}
 				]
 			},
@@ -778,7 +757,7 @@
 			"highlights": [
 				{
 					"title": "Морская рыбалка:",
-					"description": "В этом районе у вас будет уникальная возможность выйти в открытое море на настоящем промысловом судне и почувствовать себя профессиональным рыбаком. Вылов чавычи, нерки, кеты и горбуши — не просто увлекательное занятие, но и настоящее приключение"
+					"description": "В этом районе у вас будет уникальная возможность выйти в открытое море на настоящем промысловом судне и почувствовать себя профессиональным рыбаком. Вылов чавычи, нерки, кеты и горбуши, корюшки — не просто увлекательное занятие, но и настоящее приключение"
 				},
 				{
 					"title": "Ловля камчатского краба:",
@@ -791,10 +770,6 @@
 				{
 					"title": "Наблюдение за касатками:",
 					"description": "Во время морских путешествий у вас будет шанс увидеть касаток вблизи — эти величественные млекопитающие часто сопровождают суда в этих водах."
-				},
-				{
-					"title": "Акула сельдевая и азиатская корюшка:",
-					"description": "Не менее захватывающей будет возможность увидеть акулу, а также добыть азиатскую корюшку — редкий трофей для заядлых рыбаков."
 				}
 			],
 			"itinerary": {
@@ -1046,11 +1021,7 @@
 					"exclusivity_description": "我们提供通往最偏远和独特地点的机会，普通游客无法到达。您的旅程将成为真正的发现，每一条路线都经过精心策划，让您尽享原始自然和顶级的捕鱼体验。",
 					"exclusivity_img": "/img/about/image_4.jpg"
 				},
-				"technique": {
-					"technique_title": "我们的设备和渔场：",
-					"technique_description": "我们只使用自己的越野车辆，并将客人运送到自有的渔场。这确保了最高水平的控制和舒适。",
-					"technique_img": "/img/about/image_1.jpg"
-				},
+
 				"guides": {
 					"guides_title": "专业导游",
 					"guides_description": "我们的导游在商业捕鱼和地质考察方面是名副其实的专业人士。他们准备应对艰难的路线，并在最难以到达的地方为您提供无与伦比的支持。",
@@ -1119,11 +1090,6 @@
 					{
 						"day": 7,
 						"description": "完成漂流并准备返回。"
-					},
-
-					{
-						"day": 8,
-						"description": "返回彼得罗巴甫洛夫斯克-堪察加，休息并享用告别晚宴。"
 					}
 				]
 			},
@@ -1254,10 +1220,6 @@
 				{
 					"title": "观察虎鲸",
 					"description": "在海上旅行期间，您将有机会近距离观察虎鲸——这些雄伟的哺乳动物经常在这些水域伴随船只。"
-				},
-				{
-					"title": "鲨鱼和亚洲柳叶鱼",
-					"description": "同样令人兴奋的是有机会看到鲨鱼"
 				}
 			],
 			"itinerary": {

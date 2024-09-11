@@ -27,7 +27,6 @@ const GalleryBlock = () => {
 		'/img/gallery/gallary-8.jpg',
 		'/img/gallery/gallary-9.jpg',
 		'/img/gallery/gallary-11.jpg',
-		'/img/gallery/gallary-12.jpg',
 	];
 	const [imgReady, setImgReady] = useState(false);
 	const media1024 = useMediaQuery(1024);

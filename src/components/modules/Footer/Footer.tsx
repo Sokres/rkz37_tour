@@ -14,7 +14,7 @@ const Footer = () => {
 	return (
 		<footer className={`${cl.footer} column`}>
 			<Image src="/logo.svg" width={200} height={100} alt="logo" />
-			<div className={cl.footer__container}>
+			{/* <div className={cl.footer__container}>
 				<h3 className={cl.footer__title}>{translations[lang].footer.qest} </h3>
 				<Link
 					href={`tel:${translations[lang].menu_link.phone}`}
@@ -26,7 +26,7 @@ const Footer = () => {
 				<button className={cl.footer__o} onClick={open}>
 					{translations[lang].menu_link.submit_request}
 				</button>
-			</div>
+			</div> */}
 			<div className={cl.footer__container}>
 				<p className={cl.footer__info}>© 2024 RKZ 37</p>
 				<p className={cl.footer__info}>{translations[lang].footer.pr}</p>
