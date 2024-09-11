@@ -30,8 +30,12 @@ const Footer = () => {
 			<div className={cl.footer__container}>
 				<p className={cl.footer__info}>© 2024 RKZ 37</p>
 				<p className={cl.footer__info}>{translations[lang].footer.pr}</p>
-				<p className={cl.footer__info}>{translations[lang].footer.conf}</p>
-				<p className={cl.footer__info}>{translations[lang].footer.use}</p>
+				<Link href={'/politic'} className={cl.footer__info}>
+					{translations[lang].footer.conf}
+				</Link>
+				<Link href={'userAgreement'} className={cl.footer__info}>
+					{translations[lang].footer.use}
+				</Link>
 			</div>
 		</footer>
 	);
