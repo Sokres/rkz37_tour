@@ -13,7 +13,6 @@ const image = [
 	'/img/about/images/image-11.jpg',
 
 	'/img/about/images/image-8.jpg',
-	'/img/about/images/image-9.jpg',
 	'/img/about/images/image-2.jpg',
 	'/img/about/images/image-7.jpg',
 ];
