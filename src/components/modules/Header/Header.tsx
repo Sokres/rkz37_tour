@@ -120,6 +120,13 @@ const Header = () => {
 				>
 					{translations[lang].menu_link.phone}
 				</Link>
+				<Link
+					className="header__info_link"
+					rel="stylesheet"
+					href="mailto:rkz37discovery@gmail.com"
+				>
+					rkz37discovery@gmail.com
+				</Link>
 				<button onClick={headlerOpenFrame} className={`header__info_btn `}>
 					{translations[lang].menu_link.submit_request}
 				</button>

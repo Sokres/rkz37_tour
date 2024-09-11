@@ -1,3 +1,4 @@
+import KaraginslyBox from '@/components/modules/Karaginsly/KaraginslyBox/KaraginslyBox';
 import KaraginslyDay from '@/components/modules/Karaginsly/KaraginslyDay/KaraginslyDay';
 import KaraginslyDopInfo from '@/components/modules/Karaginsly/KaraginslyDopInfo/KaraginslyDopInfo';
 import KaraginslyInfo from '@/components/modules/Karaginsly/KaraginslyInfo/KaraginslyInfo';
@@ -9,6 +10,7 @@ const page = () => {
 		<div>
 			<KaraginslyMain />
 			<KaraginslyInfo />
+			<KaraginslyBox />
 			<KaraginslyDay />
 			<KaraginslyDopInfo />
 		</div>

@@ -41,7 +41,7 @@ const Contacts = () => {
 			</ul>
 			<ul className="table-contact-wrap">
 				<li className="table-contact__inf">E-mail:</li>
-				<li className="table-contact__get">ooorkz_37@mail.ru</li>
+				<li className="table-contact__get">rkz37discovery@mail.ru</li>
 			</ul>
 			<ul className="table-contact-wrap">
 				<li className="table-contact__inf">Телефон</li>

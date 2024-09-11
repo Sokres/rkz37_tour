@@ -7,11 +7,26 @@
     background: linear-gradient(137deg, #0a3474 0%, #2a4f87 100%);
 }
 
+.footer__container {
+    display: grid;
+    justify-items: start;
+    gap: 5px;
+    margin-bottom: 20px;
+}
+
 .footer__o {
+    margin: 0;
+    padding: 0;
     background: none;
     border: none;
     text-decoration: underline;
     color: #82c3ff;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+
+    &:hover {
+        color: #5e8dba;
+    }
 }
 
 .footer__phone {

@@ -9,7 +9,7 @@
     --color-bg: linear-gradient(137deg, #151620 0%, #04263a 100%);
     --color-white: #FAFAFA;
     --color-btn-gradient: linear-gradient(116deg, #0f467a 0%, #6ba3d7 100%);
-    --color-box-gradient: linear-gradient(318deg, #149ce9 0.86%, rgba(11, 88, 131, 0) 100%);
+    --color-box-gradient: linear-gradient(318deg, rgba(20, 156, 233, 0.7) 0.86%, rgba(11, 88, 131, 0) 100%);
 
 
 }

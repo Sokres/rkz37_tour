@@ -1,8 +1,5 @@
 .container {
     margin-top: 50px;
-    background-image: url('/img/bg_vilcan.svg');
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 .box_info {
