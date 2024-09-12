@@ -4,7 +4,8 @@
 			"tours": "Tours",
 			"about": "About Us",
 			"faq": "FAQ",
-			"contacts": "Contacts"
+			"contacts": "Contacts",
+			"plot": "Plot"
 		},
 		"menu_link": {
 			"phone": "+7(924)698 00-07",
@@ -459,7 +460,8 @@
 			"tours": "Туры",
 			"about": "О нас",
 			"faq": "FAQ",
-			"contacts": "Контакты"
+			"contacts": "Контакты",
+			"plot": "Рыболовные участки"
 		},
 		"menu_link": {
 			"phone": "+7(924)698 00-07",
@@ -914,7 +916,8 @@
 			"tours": "旅游",
 			"about": "关于我们",
 			"faq": "常见问题",
-			"contacts": "联系方式"
+			"contacts": "联系方式",
+			"plot": "Plot"
 		},
 		"menu_link": {
 			"phone": "+7(924)698 00-07",
