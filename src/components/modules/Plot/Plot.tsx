@@ -7,7 +7,7 @@ const Plot = () => {
 		<section className={`${cl.plot} column`}>
 			<div className={cl.box_plot}>
 				<div className={cl.minbox_plot}>
-					<strong>{`Наименование водного объекта&nbsp;`}</strong>
+					<strong>{`Наименование водного объекта`}</strong>
 					<div className={cl.name_plot}>река Пенжина</div>
 				</div>
 				<div className={cl.line_plot}></div>
@@ -98,7 +98,7 @@ const Plot = () => {
 			</div>
 			<div className={cl.box_plot}>
 				<div className={cl.minbox_plot}>
-					<strong>{`Наименование водного объекта&nbsp;`}</strong>
+					<strong>{`Наименование водного объекта`}</strong>
 					<div className={cl.name_plot}>
 						Карагинский залив, Акватория бухта Карага
 					</div>
@@ -144,7 +144,7 @@ const Plot = () => {
 			</div>
 			<div className={cl.box_plot}>
 				<div className={cl.minbox_plot}>
-					<strong>{`Наименование водного объекта&nbsp;`}</strong>
+					<strong>{`Наименование водного объекта`}</strong>
 					<div className={cl.name_plot}>Охотское море</div>
 				</div>
 				<div className={cl.line_plot}></div>
@@ -184,6 +184,49 @@ const Plot = () => {
 				<div className={cl.minbox_plot}>
 					<strong>Виды водных биоресурсов</strong>
 					анадромные, катадромные трансграничные
+				</div>
+			</div>
+			<div className={cl.box_plot}>
+				<div className={cl.minbox_plot}>
+					<strong>{`Наименование водного объекта`}</strong>
+					<div className={cl.name_plot}>река Камчатка</div>
+				</div>
+				<div className={cl.line_plot}></div>
+				<div className={cl.minbox_plot}>
+					<strong>Номер рыболовного участка</strong>
+					<div>1171</div>
+					<div className={cl.line_plot}></div>
+				</div>
+
+				<div className={cl.minbox_plot}>
+					<strong>
+						Границы участка (координаты базовых точек определяются в системе
+						координат WGS-84)
+					</strong>
+					<div className={cl.gran_plot}>
+						<div>
+							1)нижняя граница рыболовного участка на удалении 340 000 м от
+							устья р. Камчатка; 2) верхняя граница рыболовного участка на
+							удалении 342 000 м от устья р. Камчатка; 3) оба берега
+						</div>
+						<div>
+							2) верхняя граница рыболовного участка на удалении 342 000 м от
+							устья р. Камчатка; 3) оба берег
+						</div>
+						<div>3) оба берег</div>
+					</div>
+				</div>
+				<div className={cl.line_plot}></div>
+
+				<div className={cl.minbox_plot}>
+					<strong>Размеры участка</strong>
+					Площадь - 27,6 га Длина - 2000 м
+				</div>
+				<div className={cl.line_plot}></div>
+
+				<div className={cl.minbox_plot}>
+					<strong>Виды водных биоресурсов</strong>
+					кижуч, горбуша, нерка, кета
 				</div>
 			</div>
 		</section>
