@@ -12,15 +12,14 @@
       "submit_request": "Submit a request"
     },
     "main": {
+      "title": "Welcome to Kamchatka",
       "kamchatka": "Kamchatka",
       "extreme_fishing": "Extreme types of fishing",
       "no_birds_fly": "Even birds don’t fly there…",
       "btn_to_tours": "To tours"
     },
     "main_about": {
-      "sentence_1": "We organize exclusive extreme fishing",
-      "sentence_1_1": "tours to the most remote",
-      "sentence_1_2": "and inaccessible locations of Kamchatka.",
+      "sentence_1": "RKZ37 Discovery organizes unique fishing tours to the wild corners of Kamchatka. We offer expeditions to the Karaginsky district, Ust-Khairyuzovo, Kamchatka and Penzhina rivers, where salmon, crab and sea fishing await you. Our guides with 15 years of experience will ensure safety and comfort.",
       "sentence_2": "Our offer is unique in the region and the entire country. You will visit places where there is no mass tourism and experience the untouched nature of Kamchatka."
     },
     "listObject": {
@@ -468,15 +467,14 @@
       "submit_request": "Оставьте заявку"
     },
     "main": {
+      "title": "Экстремальная рыбалка на Камчатке с RKZ37 Discovery",
       "kamchatka": "Камчатка",
       "extreme_fishing": "Экстремальные виды рыбалки",
       "no_birds_fly": "Там даже птицы не летают…",
       "btn_to_tours": "К турам"
     },
     "main_about": {
-      "sentence_1": "Мы организуем",
-      "sentence_1_1": "эксклюзивные экстремальные",
-      "sentence_1_2": "рыболовные туры в самые отдалённые и труднодоступные локации Камчатки.",
+      "sentence_1": "RKZ37 Discovery организует уникальные рыболовные туры в дикие уголки Камчатки. Мы предлагаем экспедиции в Карагинский район, Усть-Хайрюзово, реки Камчатка и Пенжина, где вас ждёт ловля лосося, краба и морская рыбалка. Наши гиды с 15-летним опытом обеспечат безопасность и комфорт.",
       "sentence_2": "Наше предложение — единственное в своём роде в регионе и всей стране. Вы сможете побывать в местах, где нет массового туризма, и прикоснуться к нетронутой природе Камчатки."
     },
     "listObject": {
@@ -926,15 +924,14 @@
       "submit_request": "提交请求"
     },
     "main": {
+      "title": "堪察加 极限钓鱼",
       "kamchatka": "堪察加",
       "extreme_fishing": "极限钓鱼",
       "no_birds_fly": "那里连鸟都不飞…",
       "btn_to_tours": "去旅行"
     },
     "main_about": {
-      "sentence_1": "我们组织",
-      "sentence_1_1": "前往堪察加半岛最偏远",
-      "sentence_1_2": "和难以到达的地点的独家极限钓鱼之旅。",
+      "sentence_1": "Rkz37Discovery组织前往堪察加半岛野生角落的独特钓鱼之旅。 我们为您提供卡拉金斯基区、乌斯季-卡伊尤佐沃、堪察加河和彭日纳河的探险，鲑鱼、螃蟹和海钓等着您。 我们有15年经验的导游将确保安全和舒适.",
       "sentence_2": "我们的服务在该地区乃至整个国家都是独一无二的。您将参观没有大众旅游的地方，体验堪察加半岛的原始自然。"
     },
     "listObject": {
