@@ -1,15 +1,22 @@
 .main_abiut {
-    display: flex;
-    align-items: center;
-    height: 80dvh;
-    background-image: url("/img/about/bg_about.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 80dvh;
+  background-image: url("/img/about/bg_about.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .main_abiut__header {
-    font-size: 4rem;
-    font-weight: 700;
-    color: rgb(255, 255, 255);
-    text-shadow: 1px 1px 1px #020227;
+  display: block;
+  font-size: 4rem;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+  text-shadow: 1px 1px 1px #020227;
+}
+.main_link {
+  font-size: 22px;
+  color: aliceblue;
 }
